@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: a657b4f6e9ab14a4a8153e980cfdce53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Protagonista_lutaFinal_0
+  - first:
+      213: 21300002
+    second: Protagonista_lutaFinal_1
+  - first:
+      213: 21300004
+    second: Protagonista_lutaFinal_2
+  - first:
+      213: 21300006
+    second: Protagonista_lutaFinal_3
+  - first:
+      213: 21300008
+    second: Protagonista_lutaFinal_4
+  - first:
+      213: 21300010
+    second: Protagonista_lutaFinal_5
+  - first:
+      213: 21300012
+    second: Protagonista_lutaFinal_6
+  - first:
+      213: 21300014
+    second: Protagonista_lutaFinal_7
+  - first:
+      213: 21300016
+    second: Protagonista_lutaFinal_8
+  - first:
+      213: 21300018
+    second: Protagonista_lutaFinal_9
+  - first:
+      213: 21300020
+    second: Protagonista_lutaFinal_10
+  - first:
+      213: 21300022
+    second: Protagonista_lutaFinal_11
+  - first:
+      213: 21300024
+    second: Protagonista_lutaFinal_12
+  - first:
+      213: 21300026
+    second: Protagonista_lutaFinal_13
+  - first:
+      213: 21300028
+    second: Protagonista_lutaFinal_14
+  - first:
+      213: 21300030
+    second: Protagonista_lutaFinal_15
+  - first:
+      213: 21300032
+    second: Protagonista_lutaFinal_16
+  - first:
+      213: 21300034
+    second: Protagonista_lutaFinal_17
+  - first:
+      213: 21300036
+    second: Protagonista_lutaFinal_18
+  - first:
+      213: 21300038
+    second: Protagonista_lutaFinal_19
+  - first:
+      213: 21300040
+    second: Protagonista_lutaFinal_20
+  - first:
+      213: 21300042
+    second: Protagonista_lutaFinal_21
+  - first:
+      213: 21300044
+    second: Protagonista_lutaFinal_22
+  - first:
+      213: 21300046
+    second: Protagonista_lutaFinal_23
+  - first:
+      213: 21300048
+    second: Protagonista_lutaFinal_24
+  - first:
+      213: 21300050
+    second: Protagonista_lutaFinal_25
+  - first:
+      213: 21300052
+    second: Protagonista_lutaFinal_26
+  - first:
+      213: 21300054
+    second: Protagonista_lutaFinal_27
+  - first:
+      213: 21300056
+    second: Protagonista_lutaFinal_28
+  - first:
+      213: 21300058
+    second: Protagonista_lutaFinal_29
+  - first:
+      213: 21300060
+    second: Protagonista_lutaFinal_30
+  - first:
+      213: 21300062
+    second: Protagonista_lutaFinal_31
+  - first:
+      213: 21300064
+    second: Protagonista_lutaFinal_32
+  - first:
+      213: 21300066
+    second: Protagonista_lutaFinal_33
+  - first:
+      213: 21300068
+    second: Protagonista_lutaFinal_34
+  - first:
+      213: 21300070
+    second: Protagonista_lutaFinal_35
+  - first:
+      213: 21300072
+    second: Protagonista_lutaFinal_36
+  - first:
+      213: 21300074
+    second: Protagonista_lutaFinal_37
+  - first:
+      213: 21300076
+    second: Protagonista_lutaFinal_38
+  - first:
+      213: 21300078
+    second: Protagonista_lutaFinal_39
+  - first:
+      213: 21300080
+    second: Protagonista_lutaFinal_40
+  - first:
+      213: 21300082
+    second: Protagonista_lutaFinal_41
+  - first:
+      213: 21300084
+    second: Protagonista_lutaFinal_42
+  - first:
+      213: 21300086
+    second: Protagonista_lutaFinal_43
+  - first:
+      213: 21300088
+    second: Protagonista_lutaFinal_44
+  - first:
+      213: 21300090
+    second: Protagonista_lutaFinal_45
+  - first:
+      213: 21300092
+    second: Protagonista_lutaFinal_46
+  - first:
+      213: 21300094
+    second: Protagonista_lutaFinal_47
+  - first:
+      213: 21300096
+    second: Protagonista_lutaFinal_48
+  - first:
+      213: 21300098
+    second: Protagonista_lutaFinal_49
+  - first:
+      213: 21300100
+    second: Protagonista_lutaFinal_50
+  - first:
+      213: 21300102
+    second: Protagonista_lutaFinal_51
+  - first:
+      213: 21300104
+    second: Protagonista_lutaFinal_52
+  - first:
+      213: 21300106
+    second: Protagonista_lutaFinal_53
+  - first:
+      213: 21300108
+    second: Protagonista_lutaFinal_54
+  - first:
+      213: 21300110
+    second: Protagonista_lutaFinal_55
+  - first:
+      213: 21300112
+    second: Protagonista_lutaFinal_56
+  - first:
+      213: 21300114
+    second: Protagonista_lutaFinal_57
+  - first:
+      213: 21300116
+    second: Protagonista_lutaFinal_58
+  - first:
+      213: 21300118
+    second: Protagonista_lutaFinal_59
+  - first:
+      213: 21300120
+    second: Protagonista_lutaFinal_60
+  - first:
+      213: 21300122
+    second: Protagonista_lutaFinal_61
+  - first:
+      213: 21300124
+    second: Protagonista_lutaFinal_62
+  - first:
+      213: 21300126
+    second: Protagonista_lutaFinal_63
+  - first:
+      213: 21300128
+    second: Protagonista_lutaFinal_64
+  - first:
+      213: 21300130
+    second: Protagonista_lutaFinal_65
+  - first:
+      213: 21300132
+    second: Protagonista_lutaFinal_66
+  - first:
+      213: 21300134
+    second: Protagonista_lutaFinal_67
+  - first:
+      213: 21300136
+    second: Protagonista_lutaFinal_68
+  - first:
+      213: 21300138
+    second: Protagonista_lutaFinal_69
+  - first:
+      213: 21300140
+    second: Protagonista_lutaFinal_70
+  - first:
+      213: 21300142
+    second: Protagonista_lutaFinal_71
+  - first:
+      213: 21300144
+    second: Protagonista_lutaFinal_72
+  - first:
+      213: 21300146
+    second: Protagonista_lutaFinal_73
+  - first:
+      213: 21300148
+    second: Protagonista_lutaFinal_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1111
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f8b119f9a6984090ca5040cf6b525
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1035
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2ee96c967fb124cad36fb3049a1749
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1037
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec99e536001da640a97e0ed07882ead
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1035
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bf6733613ca51478225fdb354ddce3
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1035
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637518a8a527b840a07cf327de1fd7e
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1035
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b153cc6c1a659c44fb3fec05e721d146
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1037
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e0655c80d0a4443bc9f1b6abb20612
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1035
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42ac635a8b7f904fbaaa0fda258c103
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1035
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bce0ef09151594c9f6f634e715e79e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 944
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea21f756bcd06945bd7973864cfbfc8
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 957
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab642db0d135c4494cc6bbd9cbd775
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 957
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090cedbe090b7a249ae29b691ac74ce7
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 957
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73e529568f25f04c88f176d9910885a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 957
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9c692717615ad4681a025375c698b6
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 944
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f42fbb91cabf9459b056c65b505fdb
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 944
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b8d9dbfe7fe0242992d83569ece95a
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 944
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db00b5bd46f4a8418f70e937d402c36
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 944
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e96a91b7f04cf4e8ab9125a0d010ab
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_18
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 944
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a816c599760c8bc49856f889f35fc727
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 944
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a13836c527b50e4b8689924e18b4b34
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 860
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc39c9d3d8dc0c940ac52cffbac55daf
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 860
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f5630ba3f9378469ade6917298294b
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 780
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5e145c2e0caa54896fb916d5301cbf
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 776
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c8bd8b7a0890d4e9ab2c8d496a0429
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 765
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbca3d8290d10d49ab54858a24069ed
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 765
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 0.52603954, y: 0.9070525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16b0805edf5ca24389927ab653aab6d
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 774
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac37e901c9a6343a418d8e9aa62c0c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 768
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3233c399521ff24db4a867b80b86999
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 765
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.51720375, y: 0.5967728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd17e186fe1aa4e9bd3be6baeba708
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 684
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa83c42ae2021ba459ad0816aadcabb6
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 684
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b765dcdc0adbcc41aba2cf6eb596621
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 684
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c2fcea3b10187429a8a01360c07465
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 684
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546bb3a8e0599dd42bcc113215518c25
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 684
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68940c716bb51314bb8283f9eeb2b276
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 684
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c9cf62944ec754cac02d6bf1e4ac18
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 684
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97aabc1c6038fd438371bf412b5415e
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_36
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 684
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531ae269209f4154e85fb0d2fb1803f8
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_37
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 683
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf90a434c0764f409534dbdbfac4e2c
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_38
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 683
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b8ce41a03ab34190dcef963720bfe
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_39
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 683
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602995f9cb2a8b544ac1d73ca435d7e3
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_40
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 683
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aaba295917abb44a67a2e079d149be
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_41
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 683
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6587a5ecdad01a7409dc9d3d89c4f7a9
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 573
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d82ebb7da9734429a8e587d8e145f9
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 574
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad54cef68a5084fa7b4b0e8f21561b
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 574
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427f6b61213574543a68272d264bff27
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_45
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 574
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb485e7ed4abee34c9f3cf00cc66bec8
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_46
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 599
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a66b2ccc323ebc4db2b692d9890d18b
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_47
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 574
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da08223a6f2b10b4888d6a6e5e07b454
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 574
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2fe0754fcf05f4caeb082b81559ec3
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 574
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5890882b0099cb47ac97451c4a95c49
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 576
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d2e950d357f5f4a8dc4b46a97a4c3a
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 576
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c33ad4198f79488afd703ed0a25ca
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_52
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 575
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea31d1f98035f14f8c55720668c5e37
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_53
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 575
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cb1225e2e19f84d94c96d75a967139
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_55
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 575
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf6d9b691223ed47b73319ea9839951
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_56
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 574
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cb743107f7d7b42a2b51cdff5b46cd
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_57
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 574
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8e6fec57c39d649870c5dd7d18e23d
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_58
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 469
+        width: 105
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3314b54dd7fc6646b8128c9d40fde2d
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_59
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 468
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af2bb33341674c44904ba97b65d98e1
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_60
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 468
+        width: 103
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c0050740bf5d54ba16d82d7214f814
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_61
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 469
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3c7de56d512f64296d77321c413dc4
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_62
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 468
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a500d2bc942648972a75c030de33b
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_63
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 395
+        width: 107
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294344bf6624c6e4c995eaf1ea8e1fdb
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_64
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 395
+        width: 101
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd551892d2aa34c9249f187d7d2f2b
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_65
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 394
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cfe80de1e78ba4e80473dcf6d9904c
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_66
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 307
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5517384578023f041a8921753b330593
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_67
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 306
+        width: 79
+        height: 81
+      alignment: 9
+      pivot: {x: 0.18592526, y: 0.34684017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a228b00bd9d834c4db0b9a8188ad240c
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_69
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 309
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8077a3fdc2a45fc4aafdd7aa8224000f
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_70
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 309
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edb43eedab2c60469871ff20dbf1ce5
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 172
+        width: 270
+        height: 105
+      alignment: 9
+      pivot: {x: 0.9, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a80333c5176c499bcda0c52b14111
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 173
+        width: 270
+        height: 103
+      alignment: 9
+      pivot: {x: 0.9, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500042249b66f344d98a59e7ecc57af9
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 32
+        width: 270
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5979222e4a32649b39ac7e99a5a591
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_74
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32
+        width: 269
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7011ca3510b48864cb4679787ce157ed
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_lutaFinal_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 306
+        width: 81
+        height: 80
+      alignment: 9
+      pivot: {x: 0.21166238, y: 0.34936675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d844cc869c5d0b48b6d0a59dc5fb206
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 317d37212cfb16946a0e3691cf226e1b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

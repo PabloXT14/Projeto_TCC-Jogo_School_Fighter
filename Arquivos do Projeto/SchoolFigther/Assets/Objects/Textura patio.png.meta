@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: a4a4489653887934ca8618ac31e3b01c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6576126059653903202
+    second: Textura patio_0
+  - first:
+      213: -500171107800067488
+    second: Textura patio_1
+  - first:
+      213: 3246809686783482381
+    second: Textura patio_2
+  - first:
+      213: -4336710386267206310
+    second: Textura patio_3
+  - first:
+      213: 4954328497781673389
+    second: Textura patio_4
+  - first:
+      213: -4021897984771459823
+    second: Textura patio_5
+  - first:
+      213: -1141011473315302677
+    second: Textura patio_6
+  - first:
+      213: -3096744537439700322
+    second: Textura patio_7
+  - first:
+      213: 792214827379520962
+    second: Textura patio_8
+  - first:
+      213: 8208760993951352500
+    second: Textura patio_9
+  - first:
+      213: 9017098793591123459
+    second: Textura patio_10
+  - first:
+      213: 8575702584286250878
+    second: Textura patio_11
+  - first:
+      213: 6080809658566200231
+    second: Textura patio_12
+  - first:
+      213: 458540607157058508
+    second: Textura patio_13
+  - first:
+      213: -4411183003428233022
+    second: Textura patio_14
+  - first:
+      213: 2960119905539724425
+    second: Textura patio_15
+  - first:
+      213: -4078036280086787030
+    second: Textura patio_16
+  - first:
+      213: -4836233191598753800
+    second: Textura patio_17
+  - first:
+      213: -1451071858495564877
+    second: Textura patio_18
+  - first:
+      213: -1434220893751828456
+    second: Textura patio_19
+  - first:
+      213: 2845181707133757070
+    second: Textura patio_20
+  - first:
+      213: -1893009039170438160
+    second: Textura patio_21
+  - first:
+      213: 7674032341465826100
+    second: Textura patio_22
+  - first:
+      213: -5618314042741087776
+    second: Textura patio_23
+  - first:
+      213: 8504799348332466154
+    second: Textura patio_24
+  - first:
+      213: -8758188883840921924
+    second: Textura patio_25
+  - first:
+      213: 3520250215011936931
+    second: Textura patio_26
+  - first:
+      213: 200513659932130340
+    second: Textura patio_27
+  - first:
+      213: -7750499881112205708
+    second: Textura patio_28
+  - first:
+      213: -2202538661422967394
+    second: Textura patio_29
+  - first:
+      213: 4461887255428097107
+    second: Textura patio_30
+  - first:
+      213: 5556053738132372282
+    second: Textura patio_31
+  - first:
+      213: 5040621804979393577
+    second: Textura patio_32
+  - first:
+      213: 4483313459751597558
+    second: Textura patio_33
+  - first:
+      213: -21024274089987771
+    second: Textura patio_34
+  - first:
+      213: -164813678955146276
+    second: Textura patio_35
+  - first:
+      213: -2417446372398000198
+    second: Textura patio_36
+  - first:
+      213: -4301806022484130395
+    second: Textura patio_37
+  - first:
+      213: 2552434458328276632
+    second: Textura patio_38
+  - first:
+      213: -2663125272916651757
+    second: Textura patio_39
+  - first:
+      213: 3730052047538252332
+    second: Textura patio_40
+  - first:
+      213: -6651605237102320378
+    second: Textura patio_41
+  - first:
+      213: -4150389200441611521
+    second: Textura patio_42
+  - first:
+      213: 2263251771302365127
+    second: Textura patio_43
+  - first:
+      213: -869077065664167293
+    second: Textura patio_44
+  - first:
+      213: -8194239243488432782
+    second: Textura patio_45
+  - first:
+      213: 7038583389908755630
+    second: Textura patio_46
+  - first:
+      213: 2109784797300788204
+    second: Textura patio_47
+  - first:
+      213: 7339146607162042038
+    second: Textura patio_48
+  - first:
+      213: 1403016503540352732
+    second: Textura patio_49
+  - first:
+      213: 4044016895095992304
+    second: Textura patio_50
+  - first:
+      213: -6327070803037903611
+    second: Textura patio_51
+  - first:
+      213: 6724622278943429833
+    second: Textura patio_52
+  - first:
+      213: 1178478033306643043
+    second: Textura patio_53
+  - first:
+      213: -6161342001718692418
+    second: Textura patio_54
+  - first:
+      213: 3103202257403453575
+    second: Textura patio_55
+  - first:
+      213: -4098331732683692899
+    second: Textura patio_56
+  - first:
+      213: 7329295000645891677
+    second: Textura patio_57
+  - first:
+      213: -783038537327822584
+    second: Textura patio_58
+  - first:
+      213: 5461423638097593413
+    second: Textura patio_59
+  - first:
+      213: -8866658745959861259
+    second: Textura patio_60
+  - first:
+      213: -6382533026220594139
+    second: Textura patio_61
+  - first:
+      213: -4516191546960457890
+    second: Textura patio_62
+  - first:
+      213: -4851975961126212851
+    second: Textura patio_63
+  - first:
+      213: -1162468960124906571
+    second: Textura patio_64
+  - first:
+      213: -5038800531250337962
+    second: Textura patio_65
+  - first:
+      213: 654726458590048262
+    second: Textura patio_66
+  - first:
+      213: 863799557382563961
+    second: Textura patio_67
+  - first:
+      213: -7709942187036164593
+    second: Textura patio_68
+  - first:
+      213: 146683279575566057
+    second: Textura patio_69
+  - first:
+      213: 7941082157238071814
+    second: Textura patio_70
+  - first:
+      213: -715757672961833298
+    second: Textura patio_71
+  - first:
+      213: -3092938434359350512
+    second: Textura patio_72
+  - first:
+      213: -277114081921338124
+    second: Textura patio_73
+  - first:
+      213: 3509325009587354739
+    second: Textura patio_74
+  - first:
+      213: -7125474543642767450
+    second: Textura patio_75
+  - first:
+      213: 1088930770453354998
+    second: Textura patio_76
+  - first:
+      213: -4506756061106458364
+    second: Textura patio_77
+  - first:
+      213: 1497229036626556995
+    second: Textura patio_78
+  - first:
+      213: 327855816929429867
+    second: Textura patio_79
+  - first:
+      213: -3416412753738536622
+    second: Textura patio_80
+  - first:
+      213: 6013633124788570930
+    second: Textura patio_81
+  - first:
+      213: -596862764650727906
+    second: Textura patio_82
+  - first:
+      213: -3603807264366394387
+    second: Textura patio_83
+  - first:
+      213: 3843624280543446166
+    second: Textura patio_84
+  - first:
+      213: 5650801399625343134
+    second: Textura patio_85
+  - first:
+      213: -3866812831193922605
+    second: Textura patio_86
+  - first:
+      213: -390654636103881292
+    second: Textura patio_87
+  - first:
+      213: -1005910924856649341
+    second: Textura patio_88
+  - first:
+      213: 4282998936627672370
+    second: Textura patio_89
+  - first:
+      213: 3425617817778112564
+    second: Textura patio_90
+  - first:
+      213: -6871676558270507137
+    second: Textura patio_91
+  - first:
+      213: 578858445029117558
+    second: Textura patio_92
+  - first:
+      213: -4408333298004250724
+    second: Textura patio_93
+  - first:
+      213: -3875804770380538377
+    second: Textura patio_94
+  - first:
+      213: -6567943530583666047
+    second: Textura patio_95
+  - first:
+      213: -3212160993158211003
+    second: Textura patio_96
+  - first:
+      213: -7807423012701030604
+    second: Textura patio_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Textura patio_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b35ec235d1ccdbe0800000000000000
+      internalID: -1451071858495564877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810aa7a22bf981ce0800000000000000
+      internalID: -1434220893751828456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5fcd7f7148e7aa0800000000000000
+      internalID: -6161342001718692418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 69
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78029baf20ac01b20800000000000000
+      internalID: 3103202257403453575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b37e19dc43f480800000000000000
+      internalID: -8866658745959861259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fccc147b34351c0800000000000000
+      internalID: -4516191546960457890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2633cd73fc7134b50800000000000000
+      internalID: 6576126059653903202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062d9a807090f09f0800000000000000
+      internalID: -500171107800067488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad602353cfe0d20800000000000000
+      internalID: 3246809686783482381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dcbcc61e8e0d3c0800000000000000
+      internalID: -4336710386267206310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad0fd2058f41c440800000000000000
+      internalID: 4954328497781673389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11576de77195f28c0800000000000000
+      internalID: -4021897984771459823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be275604c105a20f0800000000000000
+      internalID: -1141011473315302677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 338
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a76cd10472605d0800000000000000
+      internalID: -3096744537439700322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f0cb20338efa00800000000000000
+      internalID: 792214827379520962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textura patio_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b68d82d1a06be170800000000000000
+      internalID: 8208760993951352500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

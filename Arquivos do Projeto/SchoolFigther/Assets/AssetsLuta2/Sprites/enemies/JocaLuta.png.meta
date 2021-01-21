@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: e8227111a66fedb478923d3540bf2814
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8462964966575188780
+    second: JocaLuta_0
+  - first:
+      213: 8782922606049022563
+    second: JocaLuta_1
+  - first:
+      213: -8815037041802516662
+    second: JocaLuta_2
+  - first:
+      213: 4298522706411186129
+    second: JocaLuta_3
+  - first:
+      213: 2232600689144209862
+    second: JocaLuta_4
+  - first:
+      213: 2712851962463906797
+    second: JocaLuta_5
+  - first:
+      213: -7557518666128755839
+    second: JocaLuta_6
+  - first:
+      213: -4288534290417034262
+    second: JocaLuta_7
+  - first:
+      213: -2776813378316994322
+    second: JocaLuta_8
+  - first:
+      213: -319125058323666327
+    second: JocaLuta_9
+  - first:
+      213: 7584340790780691756
+    second: JocaLuta_10
+  - first:
+      213: 348039368757230896
+    second: JocaLuta_11
+  - first:
+      213: -3645251874144552489
+    second: JocaLuta_12
+  - first:
+      213: 3496890865506864798
+    second: JocaLuta_13
+  - first:
+      213: 9030651654606567727
+    second: JocaLuta_14
+  - first:
+      213: -5721195241293092753
+    second: JocaLuta_15
+  - first:
+      213: 2294239553413469375
+    second: JocaLuta_16
+  - first:
+      213: -7751822270304680493
+    second: JocaLuta_17
+  - first:
+      213: -5587718779727509899
+    second: JocaLuta_18
+  - first:
+      213: -5254545875736521886
+    second: JocaLuta_19
+  - first:
+      213: 4916129699323647661
+    second: JocaLuta_20
+  - first:
+      213: -2125679322024145649
+    second: JocaLuta_21
+  - first:
+      213: 6432471145696470282
+    second: JocaLuta_22
+  - first:
+      213: 7597513972216263013
+    second: JocaLuta_23
+  - first:
+      213: -5843722834849459775
+    second: JocaLuta_24
+  - first:
+      213: 1796096693724474311
+    second: JocaLuta_25
+  - first:
+      213: 4525730464886506755
+    second: JocaLuta_26
+  - first:
+      213: 5219553396695044647
+    second: JocaLuta_27
+  - first:
+      213: -7695611713218503817
+    second: JocaLuta_28
+  - first:
+      213: 8428991796568309070
+    second: JocaLuta_29
+  - first:
+      213: -5077571089793356494
+    second: JocaLuta_30
+  - first:
+      213: -5612672297188285214
+    second: JocaLuta_31
+  - first:
+      213: 5081816531598466403
+    second: JocaLuta_32
+  - first:
+      213: -4325213197364891768
+    second: JocaLuta_33
+  - first:
+      213: 316350802612186574
+    second: JocaLuta_34
+  - first:
+      213: 1388341847138724301
+    second: JocaLuta_35
+  - first:
+      213: -7029486038971469221
+    second: JocaLuta_36
+  - first:
+      213: -4473587575078821284
+    second: JocaLuta_37
+  - first:
+      213: -8110372684022759016
+    second: JocaLuta_38
+  - first:
+      213: -7422232491779944694
+    second: JocaLuta_39
+  - first:
+      213: -4331593075497605687
+    second: JocaLuta_40
+  - first:
+      213: -2370028799121182189
+    second: JocaLuta_41
+  - first:
+      213: 280408560019949262
+    second: JocaLuta_42
+  - first:
+      213: -7337546765454203670
+    second: JocaLuta_43
+  - first:
+      213: 3167807990302344664
+    second: JocaLuta_44
+  - first:
+      213: 7237566208815412563
+    second: JocaLuta_45
+  - first:
+      213: -5216974107144465861
+    second: JocaLuta_46
+  - first:
+      213: -8198979201394379965
+    second: JocaLuta_47
+  - first:
+      213: -5812017032514647708
+    second: JocaLuta_48
+  - first:
+      213: -2750254901791798155
+    second: JocaLuta_49
+  - first:
+      213: 1542842356234690150
+    second: JocaLuta_50
+  - first:
+      213: -4390134857449435130
+    second: JocaLuta_51
+  - first:
+      213: 543859324436740544
+    second: JocaLuta_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JocaLuta_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 872
+        width: 37
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4d5bc93328d8a80800000000000000
+      internalID: -8462964966575188780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 869
+        width: 40
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362dc47839533e970800000000000000
+      internalID: 8782922606049022563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 870
+        width: 36
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a476379b382baa580800000000000000
+      internalID: -8815037041802516662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 858
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7e69e70ab67ab30800000000000000
+      internalID: 4298522706411186129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 865
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1abb97f7acbfe10800000000000000
+      internalID: 2232600689144209862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_5
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 854
+        width: 50
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe1ee8c7cf5a520800000000000000
+      internalID: 2712851962463906797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 762
+        width: 113
+        height: 59
+      alignment: 9
+      pivot: {x: 0.9045102, y: 0.60105354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183f20a80dc4e1790800000000000000
+      internalID: -7557518666128755839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 762
+        width: 110
+        height: 59
+      alignment: 9
+      pivot: {x: 0.88844186, y: 0.5926317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb5c94d8c01c74c0800000000000000
+      internalID: -4288534290417034262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 655
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8fcd1d1f6c679d0800000000000000
+      internalID: -2776813378316994322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 655
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a21b3437d329bf0800000000000000
+      internalID: -319125058323666327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 654
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250df104cdf04960800000000000000
+      internalID: 7584340790780691756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 654
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d30ae36fb74d400800000000000000
+      internalID: 348039368757230896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 654
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d979ccdbb6796dc0800000000000000
+      internalID: -3645251874144552489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 654
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e48d007b3778030800000000000000
+      internalID: 3496890865506864798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 654
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f293e1b55d1535d70800000000000000
+      internalID: 9030651654606567727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 657
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb45cdae7b6c6df10800000000000000
+      internalID: 2294239553413469375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_17
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 657
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5078057befb6490800000000000000
+      internalID: -7751822270304680493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 523
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5760095ff5f6472b0800000000000000
+      internalID: -5587718779727509899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 523
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2631bb4ad5a1417b0800000000000000
+      internalID: -5254545875736521886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 524
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da61fed2ae9993440800000000000000
+      internalID: 4916129699323647661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 525
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0520332d6ab44950800000000000000
+      internalID: 6432471145696470282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 524
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c195f60b0de6eea0800000000000000
+      internalID: -5843722834849459775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 523
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb63b34d640de810800000000000000
+      internalID: 1796096693724474311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_27
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 523
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7221130f8249f6840800000000000000
+      internalID: 5219553396695044647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_29
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 523
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db229516bc9f470800000000000000
+      internalID: 8428991796568309070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_30
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 520
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23de217fef7d889b0800000000000000
+      internalID: -5077571089793356494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_31
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 522
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4aa6d6848cb12b0800000000000000
+      internalID: -5612672297188285214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_32
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 518
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d52abf53d368640800000000000000
+      internalID: 5081816531598466403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_33
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 521
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88feb315381c9f3c0800000000000000
+      internalID: -4325213197364891768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 396
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdeb1ef067e36400800000000000000
+      internalID: 316350802612186574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 396
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc96381ed81644310800000000000000
+      internalID: 1388341847138724301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 399
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5263d37dcf9ae1c0800000000000000
+      internalID: -4473587575078821284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 399
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891cac4b30b227f80800000000000000
+      internalID: -8110372684022759016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 185
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f08179fdeeef890800000000000000
+      internalID: -7422232491779944694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_42
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 184
+        width: 122
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c7f3891634e300800000000000000
+      internalID: 280408560019949262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_43
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 175
+        width: 131
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae42942c71ccb2a90800000000000000
+      internalID: -7337546765454203670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_44
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 166
+        width: 194
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d58d9a559056fb20800000000000000
+      internalID: 3167807990302344664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_45
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 167
+        width: 137
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35530d2ee10017460800000000000000
+      internalID: 7237566208815412563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 183
+        width: 158
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343721c3bdf573e80800000000000000
+      internalID: -8198979201394379965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_49
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 61
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c4ce00db125d9d0800000000000000
+      internalID: -2750254901791798155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JocaLuta_52
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 61
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f5d09c2d2c8700800000000000000
+      internalID: 543859324436740544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

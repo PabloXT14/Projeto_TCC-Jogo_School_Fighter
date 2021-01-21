@@ -1,0 +1,2212 @@
+fileFormatVersion: 2
+guid: 65578f2c513b9f5408a4704b0dd83e03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8598916162776015430
+    second: Nycolas_0
+  - first:
+      213: -154670789754588461
+    second: Nycolas_1
+  - first:
+      213: 8683747618024223724
+    second: Nycolas_2
+  - first:
+      213: -6198596976017895661
+    second: Nycolas_3
+  - first:
+      213: 2223550637992878322
+    second: Nycolas_4
+  - first:
+      213: 2151403675909040714
+    second: Nycolas_5
+  - first:
+      213: 3042795501850236754
+    second: Nycolas_6
+  - first:
+      213: -636546427147116943
+    second: Nycolas_7
+  - first:
+      213: -5457212997804412660
+    second: Nycolas_8
+  - first:
+      213: -8596195592136925213
+    second: Nycolas_9
+  - first:
+      213: -4553375954568897141
+    second: Nycolas_10
+  - first:
+      213: 7470103218600837208
+    second: Nycolas_11
+  - first:
+      213: -2413771874529750639
+    second: Nycolas_12
+  - first:
+      213: 6849585660230772283
+    second: Nycolas_13
+  - first:
+      213: -2902167488928573406
+    second: Nycolas_14
+  - first:
+      213: 274656217976240485
+    second: Nycolas_15
+  - first:
+      213: -2376239632286909831
+    second: Nycolas_16
+  - first:
+      213: -4649905063712179680
+    second: Nycolas_17
+  - first:
+      213: 4868180935850257919
+    second: Nycolas_18
+  - first:
+      213: 7051981495347403696
+    second: Nycolas_19
+  - first:
+      213: -1669307151891520616
+    second: Nycolas_20
+  - first:
+      213: 2016878997481781090
+    second: Nycolas_21
+  - first:
+      213: -8804880132585221012
+    second: Nycolas_22
+  - first:
+      213: -3237206754990793599
+    second: Nycolas_23
+  - first:
+      213: -1125624699371652320
+    second: Nycolas_24
+  - first:
+      213: -3985822747780325490
+    second: Nycolas_25
+  - first:
+      213: 8159004169439358921
+    second: Nycolas_26
+  - first:
+      213: 7657126883247476098
+    second: Nycolas_27
+  - first:
+      213: 773221241795844089
+    second: Nycolas_28
+  - first:
+      213: -61548987615948815
+    second: Nycolas_29
+  - first:
+      213: 5322663673885857473
+    second: Nycolas_30
+  - first:
+      213: -4057168668199214866
+    second: Nycolas_31
+  - first:
+      213: -2261440407589689441
+    second: Nycolas_32
+  - first:
+      213: 9041022142610752246
+    second: Nycolas_33
+  - first:
+      213: 364204272154357265
+    second: Nycolas_34
+  - first:
+      213: -6061225214240214357
+    second: Nycolas_35
+  - first:
+      213: -8343661719293189119
+    second: Nycolas_36
+  - first:
+      213: -7313386188738714346
+    second: Nycolas_37
+  - first:
+      213: 3652907021242907693
+    second: Nycolas_38
+  - first:
+      213: -1079383242695637371
+    second: Nycolas_39
+  - first:
+      213: 3032201971863888619
+    second: Nycolas_40
+  - first:
+      213: -6219736203644314047
+    second: Nycolas_41
+  - first:
+      213: 5517268880302787949
+    second: Nycolas_42
+  - first:
+      213: -2823269455518980176
+    second: Nycolas_43
+  - first:
+      213: -4995357027479578873
+    second: Nycolas_44
+  - first:
+      213: -3743161652274342790
+    second: Nycolas_45
+  - first:
+      213: 5803224677751685065
+    second: Nycolas_46
+  - first:
+      213: -6196674038240983934
+    second: Nycolas_47
+  - first:
+      213: 3834838478142520788
+    second: Nycolas_48
+  - first:
+      213: -2820932751878690155
+    second: Nycolas_49
+  - first:
+      213: -9060904198216412633
+    second: Nycolas_50
+  - first:
+      213: 5725647615095127861
+    second: Nycolas_51
+  - first:
+      213: -4566627872736532067
+    second: Nycolas_52
+  - first:
+      213: 6906995369002447008
+    second: Nycolas_53
+  - first:
+      213: -2354204853507682862
+    second: Nycolas_54
+  - first:
+      213: 3169472068411118079
+    second: Nycolas_55
+  - first:
+      213: -982801877840821292
+    second: Nycolas_56
+  - first:
+      213: 5734404551390907320
+    second: Nycolas_57
+  - first:
+      213: -2563764769616907294
+    second: Nycolas_58
+  - first:
+      213: -4888991572115200777
+    second: Nycolas_59
+  - first:
+      213: -6829689799164554836
+    second: Nycolas_60
+  - first:
+      213: -2894642429996724122
+    second: Nycolas_61
+  - first:
+      213: 6548060571960542134
+    second: Nycolas_62
+  - first:
+      213: -777695329258235161
+    second: Nycolas_63
+  - first:
+      213: 4572313260936721833
+    second: Nycolas_64
+  - first:
+      213: -677402600923053603
+    second: Nycolas_65
+  - first:
+      213: -1383940858112056716
+    second: Nycolas_66
+  - first:
+      213: 1368360040717849371
+    second: Nycolas_67
+  - first:
+      213: -1037936847951134523
+    second: Nycolas_68
+  - first:
+      213: -7721008957616148439
+    second: Nycolas_69
+  - first:
+      213: -7771007267485695471
+    second: Nycolas_70
+  - first:
+      213: -2048658337633387459
+    second: Nycolas_71
+  - first:
+      213: -5896294748637679426
+    second: Nycolas_72
+  - first:
+      213: 1183755673091854008
+    second: Nycolas_73
+  - first:
+      213: 8638476074964587527
+    second: Nycolas_74
+  - first:
+      213: -63003054732007809
+    second: Nycolas_75
+  - first:
+      213: -2919075605946222558
+    second: Nycolas_76
+  - first:
+      213: -829544954529840603
+    second: Nycolas_77
+  - first:
+      213: -4056887874635477853
+    second: Nycolas_78
+  - first:
+      213: -7956328996027913990
+    second: Nycolas_79
+  - first:
+      213: -815010315762418907
+    second: Nycolas_80
+  - first:
+      213: 7896082010400497318
+    second: Nycolas_81
+  - first:
+      213: 4656655809508254364
+    second: Nycolas_82
+  - first:
+      213: -824401857637250781
+    second: Nycolas_83
+  - first:
+      213: -4323070482323928561
+    second: Nycolas_84
+  - first:
+      213: -2127992079182427137
+    second: Nycolas_85
+  - first:
+      213: 5571888734678751542
+    second: Nycolas_86
+  - first:
+      213: -9080170359426523863
+    second: Nycolas_87
+  - first:
+      213: -7095050046864598289
+    second: Nycolas_88
+  - first:
+      213: -7465036209839792614
+    second: Nycolas_89
+  - first:
+      213: 3378995775268767089
+    second: Nycolas_90
+  - first:
+      213: -6641302881740763006
+    second: Nycolas_91
+  - first:
+      213: -4489413384189348614
+    second: Nycolas_92
+  - first:
+      213: 1318058129815606769
+    second: Nycolas_93
+  - first:
+      213: 7007912955730348577
+    second: Nycolas_94
+  - first:
+      213: 4165912273685124037
+    second: Nycolas_95
+  - first:
+      213: 5223529922611369444
+    second: Nycolas_96
+  - first:
+      213: -3954202001586818564
+    second: Nycolas_97
+  - first:
+      213: 813339490466139606
+    second: Nycolas_98
+  - first:
+      213: -6559956071961061899
+    second: Nycolas_99
+  - first:
+      213: -2180606828199656868
+    second: Nycolas_100
+  - first:
+      213: 1914550244355526481
+    second: Nycolas_101
+  - first:
+      213: 4891287811484219098
+    second: Nycolas_102
+  - first:
+      213: 2280210088576915390
+    second: Nycolas_103
+  - first:
+      213: 4647403058499723751
+    second: Nycolas_104
+  - first:
+      213: 1591300596104737084
+    second: Nycolas_105
+  - first:
+      213: -5206210101441907580
+    second: Nycolas_106
+  - first:
+      213: -5435778717677258102
+    second: Nycolas_107
+  - first:
+      213: 746557572873784712
+    second: Nycolas_108
+  - first:
+      213: -4098123087234315545
+    second: Nycolas_109
+  - first:
+      213: -8614233404107890437
+    second: Nycolas_110
+  - first:
+      213: -4415362119136597690
+    second: Nycolas_111
+  - first:
+      213: -719387203827982024
+    second: Nycolas_112
+  - first:
+      213: -6501245413780153812
+    second: Nycolas_113
+  - first:
+      213: 6179848185087931044
+    second: Nycolas_114
+  - first:
+      213: -2618200015680779717
+    second: Nycolas_115
+  - first:
+      213: -2959064027782411992
+    second: Nycolas_116
+  - first:
+      213: -29959566404135109
+    second: Nycolas_117
+  - first:
+      213: -3716213889798926950
+    second: Nycolas_118
+  - first:
+      213: 3896203879553601116
+    second: Nycolas_119
+  - first:
+      213: 3021294382380205727
+    second: Nycolas_120
+  - first:
+      213: 6260512216427346926
+    second: Nycolas_121
+  - first:
+      213: 8672881809174703799
+    second: Nycolas_122
+  - first:
+      213: -7247462799112481941
+    second: Nycolas_123
+  - first:
+      213: -6677744590307496865
+    second: Nycolas_124
+  - first:
+      213: -3988996952544154971
+    second: Nycolas_125
+  - first:
+      213: -4395287055121274934
+    second: Nycolas_126
+  - first:
+      213: 8815898903424434526
+    second: Nycolas_127
+  - first:
+      213: -3814358520047193687
+    second: Nycolas_128
+  - first:
+      213: 6216143674484093684
+    second: Nycolas_129
+  - first:
+      213: 2057601855998010368
+    second: Nycolas_130
+  - first:
+      213: -3207832324595276669
+    second: Nycolas_131
+  - first:
+      213: 8584109952017273724
+    second: Nycolas_132
+  - first:
+      213: -648812162660356328
+    second: Nycolas_133
+  - first:
+      213: 5112908109367652201
+    second: Nycolas_134
+  - first:
+      213: 5016329413303738482
+    second: Nycolas_135
+  - first:
+      213: 1388988566035327915
+    second: Nycolas_136
+  - first:
+      213: -1682082855352052812
+    second: Nycolas_137
+  - first:
+      213: -2212750269658556591
+    second: Nycolas_138
+  - first:
+      213: -2104800693513006171
+    second: Nycolas_139
+  - first:
+      213: -2491546036107121969
+    second: Nycolas_140
+  - first:
+      213: 583711078543895619
+    second: Nycolas_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nycolas_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 484
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d27c877cbf7addf0800000000000000
+      internalID: -154670789754588461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 496
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce37a7b337ed28870800000000000000
+      internalID: 8683747618024223724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 503
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f84a254e82af9a0800000000000000
+      internalID: -6198596976017895661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 496
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a8ad3683abde10800000000000000
+      internalID: 2223550637992878322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 496
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a270f9e325bdd10800000000000000
+      internalID: 2151403675909040714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 484
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25790f3336e2a3a20800000000000000
+      internalID: 3042795501850236754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 484
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e1ad6a5688a27f0800000000000000
+      internalID: -636546427147116943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 484
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01393a21b51444b0800000000000000
+      internalID: -5457212997804412660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_9
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 493
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef56ee47ad24b880800000000000000
+      internalID: -8596195592136925213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_10
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 467
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d9d13b1b82fc0c0800000000000000
+      internalID: -4553375954568897141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 460
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850843c8c432ba760800000000000000
+      internalID: 7470103218600837208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 460
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19153d1d44f808ed0800000000000000
+      internalID: -2413771874529750639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_13
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 460
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b362aa80edd9e0f50800000000000000
+      internalID: 6849585660230772283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 460
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22899bf8b0e69b7d0800000000000000
+      internalID: -2902167488928573406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_15
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 460
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56973d30066cfc300800000000000000
+      internalID: 274656217976240485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_16
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 470
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7550f4a6e50fd0800000000000000
+      internalID: -2376239632286909831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 361
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a35261bf7387fb0800000000000000
+      internalID: -4649905063712179680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 346
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdeea7b4c04f8340800000000000000
+      internalID: 4868180935850257919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 339
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb5fc89ecbadd160800000000000000
+      internalID: 7051981495347403696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 343
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893ac7e5dfd65d8e0800000000000000
+      internalID: -1669307151891520616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 338
+        width: 98
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267f8d723c46dfb10800000000000000
+      internalID: 2016878997481781090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_22
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 338
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c641d5f6b28cec580800000000000000
+      internalID: -8804880132585221012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_23
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 338
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c57489b912313d0800000000000000
+      internalID: -3237206754990793599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 274
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bfb8bbc4af060f0800000000000000
+      internalID: -1125624699371652320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 256
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd1e424538fa8c0800000000000000
+      internalID: -3985822747780325490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 249
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf2d58501b9a3170800000000000000
+      internalID: 8159004169439358921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 249
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d4f04c454934a60800000000000000
+      internalID: 7657126883247476098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 250
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7170a6f980bba00800000000000000
+      internalID: 773221241795844089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 249
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffcdd89585552ff0800000000000000
+      internalID: -61548987615948815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 249
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c697d42966edd940800000000000000
+      internalID: 5322663673885857473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 250
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee02422979a02b7c0800000000000000
+      internalID: -4057168668199214866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_32
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 249
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e6e05eefbd90e0800000000000000
+      internalID: -2261440407589689441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_33
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 248
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f241c0ccb9287d70800000000000000
+      internalID: 9041022142610752246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_34
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 248
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ea07b1bd9ed0500800000000000000
+      internalID: 364204272154357265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_35
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 248
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2329908c332eba0800000000000000
+      internalID: -6061225214240214357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_36
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 248
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10421877fdb553c80800000000000000
+      internalID: -8343661719293189119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_37
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 247
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6152bf26202a18a90800000000000000
+      internalID: -7313386188738714346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_38
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 240
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb6b6f49bb1b230800000000000000
+      internalID: 3652907021242907693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_39
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 246
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5860e9ad8a24501f0800000000000000
+      internalID: -1079383242695637371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_40
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 241
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2af2cc0ab841a20800000000000000
+      internalID: 3032201971863888619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_41
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 240
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ed42950ee0fa9a0800000000000000
+      internalID: -6219736203644314047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_42
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 240
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc3cc90d6419c40800000000000000
+      internalID: 5517268880302787949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_43
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 240
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a496736bb1d8d0800000000000000
+      internalID: -2823269455518980176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 154
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70714d2004decaab0800000000000000
+      internalID: -4995357027479578873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 149
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74d2533f4e9d0cc0800000000000000
+      internalID: -3743161652274342790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_46
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 139
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf7b2df812398050800000000000000
+      internalID: 5803224677751685065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 139
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284c2c92bcdf00aa0800000000000000
+      internalID: -6196674038240983934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 139
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd3fac2745183530800000000000000
+      internalID: 3834838478142520788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 140
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a610dab980ad8d0800000000000000
+      internalID: -2820932751878690155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 139
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722177173a3314280800000000000000
+      internalID: -9060904198216412633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_51
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 139
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fbece8b26957f40800000000000000
+      internalID: 5725647615095127861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_52
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 139
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d992420152410a0c0800000000000000
+      internalID: -4566627872736532067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_53
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 34
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0b8aa71b39adf50800000000000000
+      internalID: 6906995369002447008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_55
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 33
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1da2bbd0a3cfb20800000000000000
+      internalID: 3169472068411118079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_65
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 34
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd14e0a6ce16996f0800000000000000
+      internalID: -677402600923053603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_66
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 41
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472e41a3f114bcce0800000000000000
+      internalID: -1383940858112056716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1393d705346df210800000000000000
+      internalID: 1368360040717849371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_68
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 35
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0859e9fe18891f0800000000000000
+      internalID: -1037936847951134523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 55
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c383f9814b193e0800000000000000
+      internalID: -2048658337633387459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_72
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb033708a272c2ea0800000000000000
+      internalID: -5896294748637679426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_73
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 36
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be4e7b438b8d6010800000000000000
+      internalID: 1183755673091854008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_80
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 53
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb3b89f6080b4f0800000000000000
+      internalID: -815010315762418907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 606
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdde581f438aa880800000000000000
+      internalID: -8598916162776015430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 612
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92aff669c3cf9040800000000000000
+      internalID: 4656655809508254364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_83
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 612
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3290c5bd0e22f84f0800000000000000
+      internalID: -824401857637250781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_84
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 611
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a0b1a0d4e5104c0800000000000000
+      internalID: -4323070482323928561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_85
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 609
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8c738a7ad772e0800000000000000
+      internalID: -2127992079182427137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_86
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 612
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63917867843535d40800000000000000
+      internalID: 5571888734678751542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 612
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd95aba21ccf180800000000000000
+      internalID: -9080170359426523863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_88
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 611
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea5405d291598d90800000000000000
+      internalID: -7095050046864598289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_89
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 609
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e121d5e1dd66890800000000000000
+      internalID: -7465036209839792614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_90
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 609
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175c07241ca94ee20800000000000000
+      internalID: 3378995775268767089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_91
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 609
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805018573a55d3a0800000000000000
+      internalID: -6641302881740763006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_92
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 609
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af47281205662b1c0800000000000000
+      internalID: -4489413384189348614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_93
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 609
+        width: 47
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6491686, y: 0.56511736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f599fcb2eeaa4210800000000000000
+      internalID: 1318058129815606769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_94
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 609
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a4a2724bb114160800000000000000
+      internalID: 7007912955730348577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_95
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 609
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c31176142b40d930800000000000000
+      internalID: 4165912273685124037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_96
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 609
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5dfd60ac4bd7840800000000000000
+      internalID: 5223529922611369444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_97
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 608
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf17745da3adf19c0800000000000000
+      internalID: -3954202001586818564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nycolas_98
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 609
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd080315ff894b00800000000000000
+      internalID: 813339490466139606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

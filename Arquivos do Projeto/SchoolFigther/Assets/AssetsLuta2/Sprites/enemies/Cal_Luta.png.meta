@@ -1,0 +1,1756 @@
+fileFormatVersion: 2
+guid: 75f4e51fc78639744b854500ad3bd9a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8848170041183126052
+    second: Cal_Luta_0
+  - first:
+      213: -66289346851152751
+    second: Cal_Luta_1
+  - first:
+      213: 1577818944133839171
+    second: Cal_Luta_2
+  - first:
+      213: 7458791656444691563
+    second: Cal_Luta_3
+  - first:
+      213: -991173023573920063
+    second: Cal_Luta_4
+  - first:
+      213: -4446015238251657305
+    second: Cal_Luta_5
+  - first:
+      213: -8688392685880856003
+    second: Cal_Luta_6
+  - first:
+      213: -1889417101958520425
+    second: Cal_Luta_7
+  - first:
+      213: -5757951268072864302
+    second: Cal_Luta_8
+  - first:
+      213: 2894290675646985140
+    second: Cal_Luta_9
+  - first:
+      213: 6702404550681444302
+    second: Cal_Luta_10
+  - first:
+      213: -1445754766447222516
+    second: Cal_Luta_11
+  - first:
+      213: 6399788493755248347
+    second: Cal_Luta_12
+  - first:
+      213: 7396664730041869891
+    second: Cal_Luta_13
+  - first:
+      213: 2256305818031065933
+    second: Cal_Luta_14
+  - first:
+      213: -3775858033460229085
+    second: Cal_Luta_15
+  - first:
+      213: 3716367295812346943
+    second: Cal_Luta_16
+  - first:
+      213: -6866921809377862340
+    second: Cal_Luta_17
+  - first:
+      213: 3529993181785725302
+    second: Cal_Luta_18
+  - first:
+      213: -2694661033248647535
+    second: Cal_Luta_19
+  - first:
+      213: 5692327286478881667
+    second: Cal_Luta_20
+  - first:
+      213: -7972039053950764259
+    second: Cal_Luta_21
+  - first:
+      213: 3246949643204359444
+    second: Cal_Luta_22
+  - first:
+      213: 710846898461107661
+    second: Cal_Luta_23
+  - first:
+      213: 3723373716996146665
+    second: Cal_Luta_24
+  - first:
+      213: 4687834837626562579
+    second: Cal_Luta_25
+  - first:
+      213: -1255693834676878645
+    second: Cal_Luta_26
+  - first:
+      213: 5643035119878426433
+    second: Cal_Luta_27
+  - first:
+      213: -5796238869095554760
+    second: Cal_Luta_28
+  - first:
+      213: 4244420572790834265
+    second: Cal_Luta_29
+  - first:
+      213: -7451773372243174971
+    second: Cal_Luta_30
+  - first:
+      213: 1118253834548076161
+    second: Cal_Luta_31
+  - first:
+      213: -884434663528695104
+    second: Cal_Luta_32
+  - first:
+      213: 8250556567913614229
+    second: Cal_Luta_33
+  - first:
+      213: 3185998160213688578
+    second: Cal_Luta_34
+  - first:
+      213: -3678714667134119843
+    second: Cal_Luta_35
+  - first:
+      213: -1775305803348806112
+    second: Cal_Luta_36
+  - first:
+      213: -659352279952743413
+    second: Cal_Luta_37
+  - first:
+      213: -3654773094907302723
+    second: Cal_Luta_38
+  - first:
+      213: -4072083254316768224
+    second: Cal_Luta_39
+  - first:
+      213: -7970985846964377803
+    second: Cal_Luta_40
+  - first:
+      213: 4090161120222454153
+    second: Cal_Luta_41
+  - first:
+      213: 1003839964935460114
+    second: Cal_Luta_42
+  - first:
+      213: 3298457841121207424
+    second: Cal_Luta_43
+  - first:
+      213: -2571850979035474709
+    second: Cal_Luta_44
+  - first:
+      213: 536501417640086996
+    second: Cal_Luta_45
+  - first:
+      213: 5133244882243787789
+    second: Cal_Luta_46
+  - first:
+      213: 4160462395535981565
+    second: Cal_Luta_47
+  - first:
+      213: 7070539927873774964
+    second: Cal_Luta_48
+  - first:
+      213: 154759773871984412
+    second: Cal_Luta_49
+  - first:
+      213: 596696513860331995
+    second: Cal_Luta_50
+  - first:
+      213: -8884936295440163989
+    second: Cal_Luta_51
+  - first:
+      213: 59910473286271287
+    second: Cal_Luta_52
+  - first:
+      213: 7327326409236572075
+    second: Cal_Luta_53
+  - first:
+      213: 3388679468631048327
+    second: Cal_Luta_54
+  - first:
+      213: -130747820863266355
+    second: Cal_Luta_55
+  - first:
+      213: 1964602263689862351
+    second: Cal_Luta_56
+  - first:
+      213: 4771637589461958649
+    second: Cal_Luta_57
+  - first:
+      213: -9043503631966698433
+    second: Cal_Luta_58
+  - first:
+      213: -5407276313994106761
+    second: Cal_Luta_59
+  - first:
+      213: 2961521237662635464
+    second: Cal_Luta_60
+  - first:
+      213: 8860292207215704101
+    second: Cal_Luta_61
+  - first:
+      213: 1194718173499612586
+    second: Cal_Luta_62
+  - first:
+      213: 5745637477579212098
+    second: Cal_Luta_63
+  - first:
+      213: 6659275820180104142
+    second: Cal_Luta_64
+  - first:
+      213: 8095688958879705921
+    second: Cal_Luta_65
+  - first:
+      213: 7118712404793218103
+    second: Cal_Luta_66
+  - first:
+      213: 1932366754658417047
+    second: Cal_Luta_67
+  - first:
+      213: -6362062067466657874
+    second: Cal_Luta_68
+  - first:
+      213: 2595045028624256692
+    second: Cal_Luta_69
+  - first:
+      213: 3316874630578187503
+    second: Cal_Luta_70
+  - first:
+      213: -6779107642463973951
+    second: Cal_Luta_71
+  - first:
+      213: 3383468990668430851
+    second: Cal_Luta_72
+  - first:
+      213: 7244365600347340355
+    second: Cal_Luta_73
+  - first:
+      213: -7288921558489234650
+    second: Cal_Luta_74
+  - first:
+      213: -6934189553134827487
+    second: Cal_Luta_75
+  - first:
+      213: -1907912164744390763
+    second: Cal_Luta_76
+  - first:
+      213: 9175224523712133011
+    second: Cal_Luta_77
+  - first:
+      213: 592459108687954734
+    second: Cal_Luta_78
+  - first:
+      213: 8983770188204509046
+    second: Cal_Luta_79
+  - first:
+      213: 8630740124505639873
+    second: Cal_Luta_80
+  - first:
+      213: -6531379470802784295
+    second: Cal_Luta_81
+  - first:
+      213: 987332113812285386
+    second: Cal_Luta_82
+  - first:
+      213: 8360788519405267726
+    second: Cal_Luta_83
+  - first:
+      213: -4072378093203226522
+    second: Cal_Luta_84
+  - first:
+      213: -7438699931882812390
+    second: Cal_Luta_85
+  - first:
+      213: 4197585299338848136
+    second: Cal_Luta_86
+  - first:
+      213: 1992680261834480042
+    second: Cal_Luta_87
+  - first:
+      213: 3938835341151981861
+    second: Cal_Luta_88
+  - first:
+      213: 5474277752001797038
+    second: Cal_Luta_89
+  - first:
+      213: 4058450946642771406
+    second: Cal_Luta_90
+  - first:
+      213: 5668355792360948002
+    second: Cal_Luta_91
+  - first:
+      213: 5758376850035689045
+    second: Cal_Luta_92
+  - first:
+      213: 2113401657997396520
+    second: Cal_Luta_93
+  - first:
+      213: 8490813560827749872
+    second: Cal_Luta_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cal_Luta_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 914
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42249f8d5c30bca70800000000000000
+      internalID: 8848170041183126052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 904
+        width: 51
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c5b84b03e741ff0800000000000000
+      internalID: -66289346851152751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 904
+        width: 45
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349baf458f985e510800000000000000
+      internalID: 1577818944133839171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 904
+        width: 35
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6488004e73f28760800000000000000
+      internalID: 7458791656444691563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 904
+        width: 49
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c63de2f265ae32f0800000000000000
+      internalID: -991173023573920063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 904
+        width: 52
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7490262b49c42c0800000000000000
+      internalID: -4446015238251657305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 904
+        width: 39
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3238f0a2e0ac6780800000000000000
+      internalID: -8688392685880856003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_7
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 904
+        width: 36
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791e635082177c5e0800000000000000
+      internalID: -1889417101958520425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_8
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 904
+        width: 50
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c18024d5a710b0800000000000000
+      internalID: -5757951268072864302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_9
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 904
+        width: 39
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3f9aee8069a2820800000000000000
+      internalID: 2894290675646985140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_10
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 904
+        width: 35
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf34509d69b30d50800000000000000
+      internalID: 6702404550681444302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_11
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 904
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01e59923b5afebe0800000000000000
+      internalID: -1445754766447222516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_12
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 904
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdee9ef3abd90d850800000000000000
+      internalID: 6399788493755248347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_13
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 904
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3466eccf16b36a660800000000000000
+      internalID: 7396664730041869891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_14
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 904
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b8364ef22005f10800000000000000
+      internalID: 2256305818031065933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_15
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 901
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c4c49bf15799bc0800000000000000
+      internalID: -3775858033460229085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_16
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 901
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3426c98d50339330800000000000000
+      internalID: 3716367295812346943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_17
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 901
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d56a33ffac3b0a0800000000000000
+      internalID: -6866921809377862340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 787
+        width: 38
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67993eb981e0df030800000000000000
+      internalID: 3529993181785725302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 787
+        width: 44
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19690233114aa9ad0800000000000000
+      internalID: -2694661033248647535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 787
+        width: 58
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38346dff1853ffe40800000000000000
+      internalID: 5692327286478881667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 787
+        width: 59
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b39b5d7b0ad5190800000000000000
+      internalID: -7972039053950764259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 787
+        width: 48
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415f6c65f7b7f0d20800000000000000
+      internalID: 3246949643204359444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 787
+        width: 39
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56678ec7f6dd900800000000000000
+      internalID: 710846898461107661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 787
+        width: 40
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5c4971ba41ca330800000000000000
+      internalID: 3723373716996146665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_25
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 787
+        width: 32
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ae6692f88e0140800000000000000
+      internalID: 4687834837626562579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 787
+        width: 57
+        height: 64
+      alignment: 9
+      pivot: {x: 0.39, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2cf6d3c11e29ee0800000000000000
+      internalID: -1255693834676878645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_27
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 787
+        width: 57
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f486f1b86105e40800000000000000
+      internalID: 5643035119878426433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_28
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 787
+        width: 47
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8316f36557f9f8fa0800000000000000
+      internalID: -5796238869095554760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_29
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 787
+        width: 41
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ce86e50637ea30800000000000000
+      internalID: 4244420572790834265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_30
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 787
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c91bb0699bf59890800000000000000
+      internalID: -7451773372243174971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 695
+        width: 41
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ed4f010f5d48f00800000000000000
+      internalID: 1118253834548076161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 698
+        width: 43
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca74550c5bd9b3f0800000000000000
+      internalID: -884434663528695104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_33
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 681
+        width: 77
+        height: 84
+      alignment: 9
+      pivot: {x: 0.3, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bc1c53c7ddf7270800000000000000
+      internalID: 8250556567913614229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_35
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 671
+        width: 79
+        height: 94
+      alignment: 9
+      pivot: {x: 0.3, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50937b308492fcc0800000000000000
+      internalID: -3678714667134119843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 675
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04a293489289d6f0800000000000000
+      internalID: -659352279952743413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_40
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 680
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a502ba9e516190800000000000000
+      internalID: -7970985846964377803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_42
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 673
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2159159212b5eed00800000000000000
+      internalID: 1003839964935460114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_44
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 675
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4995b2923fe4cd0800000000000000
+      internalID: -2571850979035474709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_59
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 613
+        width: 41
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7786ff567de75f4b0800000000000000
+      internalID: -5407276313994106761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd52259dd749010800000000000000
+      internalID: 1194718173499612586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_63
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 613
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245c74b18da9cbf40800000000000000
+      internalID: 5745637477579212098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_64
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 532
+        width: 41
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3ee2b73108a6c50800000000000000
+      internalID: 6659275820180104142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_67
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 534
+        width: 107
+        height: 73
+      alignment: 9
+      pivot: {x: 0.2, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7997033435521da10800000000000000
+      internalID: 1932366754658417047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_69
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 534
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beca4354b3730420800000000000000
+      internalID: 2595045028624256692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_70
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 532
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec2e1827e7e70e20800000000000000
+      internalID: 3316874630578187503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 534
+        width: 106
+        height: 57
+      alignment: 9
+      pivot: {x: 0.2, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd8cc43485cbe1a0800000000000000
+      internalID: -6779107642463973951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 534
+        width: 105
+        height: 72
+      alignment: 9
+      pivot: {x: 0.2, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e33c79128298460800000000000000
+      internalID: 7244365600347340355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_74
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 534
+        width: 113
+        height: 72
+      alignment: 9
+      pivot: {x: 0.2, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623009ef57c88da90800000000000000
+      internalID: -7288921558489234650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_76
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 534
+        width: 54
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59793c5aefbb585e0800000000000000
+      internalID: -1907912164744390763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 373
+        width: 49
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb8ed56a6c86c770800000000000000
+      internalID: 8630740124505639873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_81
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 373
+        width: 41
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df658dd9f0eb55a0800000000000000
+      internalID: -6531379470802784295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_82
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 382
+        width: 60
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7ed1f8355b3bd00800000000000000
+      internalID: 987332113812285386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_83
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 389
+        width: 50
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ba05d6cdc770470800000000000000
+      internalID: 8360788519405267726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_84
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 386
+        width: 64
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6600a8b53b10c77c0800000000000000
+      internalID: -4072378093203226522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_85
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 386
+        width: 46
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c0769e2dd64c890800000000000000
+      internalID: -7438699931882812390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_86
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 385
+        width: 46
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8876e790791d04a30800000000000000
+      internalID: 4197585299338848136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_87
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 384
+        width: 36
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa99395f32c67ab10800000000000000
+      internalID: 1992680261834480042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_88
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 384
+        width: 39
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5215e1abfdd89a630800000000000000
+      internalID: 3938835341151981861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 273
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab14e98c9a88fb40800000000000000
+      internalID: 5474277752001797038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_90
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 273
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd7df422a3825830800000000000000
+      internalID: 4058450946642771406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_91
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 177
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c3389f8b0aae40800000000000000
+      internalID: 5668355792360948002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_92
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 177
+        width: 128
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556c5356c3dd9ef40800000000000000
+      internalID: 5758376850035689045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_93
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 177
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a08a45c9f445d10800000000000000
+      internalID: 2113401657997396520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cal_Luta_94
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 177
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5253382fd65d570800000000000000
+      internalID: 8490813560827749872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

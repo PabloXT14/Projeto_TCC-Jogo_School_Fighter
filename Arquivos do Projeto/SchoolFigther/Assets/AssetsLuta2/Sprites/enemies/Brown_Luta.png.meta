@@ -1,0 +1,3037 @@
+fileFormatVersion: 2
+guid: b971c2440af761b46a6973f2e9ad642d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8520069711870821347
+    second: Brown_Luta_0
+  - first:
+      213: 4552858187068916930
+    second: Brown_Luta_1
+  - first:
+      213: -5796357886669475325
+    second: Brown_Luta_2
+  - first:
+      213: -4475459594080428292
+    second: Brown_Luta_3
+  - first:
+      213: 5481692113493220471
+    second: Brown_Luta_4
+  - first:
+      213: 2429761669802806861
+    second: Brown_Luta_5
+  - first:
+      213: -5589026982252419828
+    second: Brown_Luta_6
+  - first:
+      213: 6263006394382447165
+    second: Brown_Luta_7
+  - first:
+      213: -7875407034930274151
+    second: Brown_Luta_8
+  - first:
+      213: -6779072956122347850
+    second: Brown_Luta_9
+  - first:
+      213: 4138925315333016157
+    second: Brown_Luta_10
+  - first:
+      213: -1270945121225994161
+    second: Brown_Luta_11
+  - first:
+      213: -8181336302603861541
+    second: Brown_Luta_12
+  - first:
+      213: -1188422573506904850
+    second: Brown_Luta_13
+  - first:
+      213: -4564592405212448424
+    second: Brown_Luta_14
+  - first:
+      213: 7784751438591896287
+    second: Brown_Luta_15
+  - first:
+      213: -1406818576097468154
+    second: Brown_Luta_16
+  - first:
+      213: -1836658021929522126
+    second: Brown_Luta_17
+  - first:
+      213: 688473641625014815
+    second: Brown_Luta_18
+  - first:
+      213: -8762658147247018711
+    second: Brown_Luta_19
+  - first:
+      213: -6913678869842472347
+    second: Brown_Luta_20
+  - first:
+      213: 2521747222923554375
+    second: Brown_Luta_21
+  - first:
+      213: 3839012459476136235
+    second: Brown_Luta_22
+  - first:
+      213: -821968038336981759
+    second: Brown_Luta_23
+  - first:
+      213: 1467063144288101181
+    second: Brown_Luta_24
+  - first:
+      213: -4628169118864696177
+    second: Brown_Luta_25
+  - first:
+      213: 7603329446312740927
+    second: Brown_Luta_26
+  - first:
+      213: 2472429765280874309
+    second: Brown_Luta_27
+  - first:
+      213: 3745780495219959258
+    second: Brown_Luta_28
+  - first:
+      213: -1073755598205148945
+    second: Brown_Luta_29
+  - first:
+      213: 7878667421316837743
+    second: Brown_Luta_30
+  - first:
+      213: 3105384854410324827
+    second: Brown_Luta_31
+  - first:
+      213: 2962031679513162719
+    second: Brown_Luta_32
+  - first:
+      213: -4698262673591029411
+    second: Brown_Luta_33
+  - first:
+      213: -9122070636339116058
+    second: Brown_Luta_34
+  - first:
+      213: -4744245684885792181
+    second: Brown_Luta_35
+  - first:
+      213: 2152897666477384131
+    second: Brown_Luta_36
+  - first:
+      213: 8553645298157617859
+    second: Brown_Luta_37
+  - first:
+      213: -5246233806893107115
+    second: Brown_Luta_38
+  - first:
+      213: -5329966455954868812
+    second: Brown_Luta_39
+  - first:
+      213: -6093740452861589700
+    second: Brown_Luta_40
+  - first:
+      213: -7544040266714321373
+    second: Brown_Luta_41
+  - first:
+      213: 4783268007487357801
+    second: Brown_Luta_42
+  - first:
+      213: 2907170500098941740
+    second: Brown_Luta_43
+  - first:
+      213: 1644308612909009601
+    second: Brown_Luta_44
+  - first:
+      213: -2503874781894840208
+    second: Brown_Luta_45
+  - first:
+      213: -2722998304559657654
+    second: Brown_Luta_46
+  - first:
+      213: 4019480151875336062
+    second: Brown_Luta_47
+  - first:
+      213: 4943077186194417209
+    second: Brown_Luta_48
+  - first:
+      213: 8775103871278358600
+    second: Brown_Luta_49
+  - first:
+      213: -7650874330390741253
+    second: Brown_Luta_50
+  - first:
+      213: 2415766715378129300
+    second: Brown_Luta_51
+  - first:
+      213: -716511914655424322
+    second: Brown_Luta_52
+  - first:
+      213: -3009302102072456940
+    second: Brown_Luta_53
+  - first:
+      213: 1802348784201059216
+    second: Brown_Luta_54
+  - first:
+      213: -8214893017027903497
+    second: Brown_Luta_55
+  - first:
+      213: -7024247796271778722
+    second: Brown_Luta_56
+  - first:
+      213: 3442210014056647497
+    second: Brown_Luta_57
+  - first:
+      213: 3085592476144065556
+    second: Brown_Luta_58
+  - first:
+      213: 44651004587572380
+    second: Brown_Luta_59
+  - first:
+      213: -4905372843893549337
+    second: Brown_Luta_60
+  - first:
+      213: -8277866150696078109
+    second: Brown_Luta_61
+  - first:
+      213: -7104083561311500851
+    second: Brown_Luta_62
+  - first:
+      213: -1749038968190139995
+    second: Brown_Luta_63
+  - first:
+      213: -3808040382921598149
+    second: Brown_Luta_64
+  - first:
+      213: -986348643831853901
+    second: Brown_Luta_65
+  - first:
+      213: 6477821909629728994
+    second: Brown_Luta_66
+  - first:
+      213: 4432190584485618833
+    second: Brown_Luta_67
+  - first:
+      213: 4451322963078078159
+    second: Brown_Luta_68
+  - first:
+      213: -7293205232627619645
+    second: Brown_Luta_69
+  - first:
+      213: -8352674854368866365
+    second: Brown_Luta_70
+  - first:
+      213: 3320310549644700273
+    second: Brown_Luta_71
+  - first:
+      213: -2753813283043439587
+    second: Brown_Luta_72
+  - first:
+      213: 6459969637642015100
+    second: Brown_Luta_73
+  - first:
+      213: -1927461246022339067
+    second: Brown_Luta_74
+  - first:
+      213: 2165153073989592479
+    second: Brown_Luta_75
+  - first:
+      213: -495350689769286975
+    second: Brown_Luta_76
+  - first:
+      213: 865401870401291057
+    second: Brown_Luta_77
+  - first:
+      213: -9118302734064184615
+    second: Brown_Luta_78
+  - first:
+      213: -1818442123396334288
+    second: Brown_Luta_79
+  - first:
+      213: -4168322583475069239
+    second: Brown_Luta_80
+  - first:
+      213: -3497104100477865920
+    second: Brown_Luta_81
+  - first:
+      213: -1478184697194876425
+    second: Brown_Luta_82
+  - first:
+      213: -5922010132154424607
+    second: Brown_Luta_83
+  - first:
+      213: -1186923397342596909
+    second: Brown_Luta_84
+  - first:
+      213: -1369774194237122916
+    second: Brown_Luta_85
+  - first:
+      213: 5502117945664567427
+    second: Brown_Luta_86
+  - first:
+      213: 11188887709281992
+    second: Brown_Luta_87
+  - first:
+      213: -8939085036423432201
+    second: Brown_Luta_88
+  - first:
+      213: -4673159798563786690
+    second: Brown_Luta_89
+  - first:
+      213: 9164088075183946208
+    second: Brown_Luta_90
+  - first:
+      213: -4990271118890067744
+    second: Brown_Luta_91
+  - first:
+      213: 3102936167542226753
+    second: Brown_Luta_92
+  - first:
+      213: -8781978541613562758
+    second: Brown_Luta_93
+  - first:
+      213: 7596795843313264814
+    second: Brown_Luta_94
+  - first:
+      213: -2842578919785904064
+    second: Brown_Luta_95
+  - first:
+      213: -7180124080267808429
+    second: Brown_Luta_96
+  - first:
+      213: -3502283594352172875
+    second: Brown_Luta_97
+  - first:
+      213: -7740944083911954997
+    second: Brown_Luta_98
+  - first:
+      213: 307316365547472689
+    second: Brown_Luta_99
+  - first:
+      213: 753406601188086644
+    second: Brown_Luta_100
+  - first:
+      213: 8493647709380060980
+    second: Brown_Luta_101
+  - first:
+      213: -8965156237540181084
+    second: Brown_Luta_102
+  - first:
+      213: 7699610644524070330
+    second: Brown_Luta_103
+  - first:
+      213: -2292916447492009493
+    second: Brown_Luta_104
+  - first:
+      213: 8159866639399109028
+    second: Brown_Luta_105
+  - first:
+      213: 3393169956597604031
+    second: Brown_Luta_106
+  - first:
+      213: -4381919484613042259
+    second: Brown_Luta_107
+  - first:
+      213: 1325856837752640801
+    second: Brown_Luta_108
+  - first:
+      213: -3184687358588636362
+    second: Brown_Luta_109
+  - first:
+      213: 1987978992357630937
+    second: Brown_Luta_110
+  - first:
+      213: -8756539120390454107
+    second: Brown_Luta_111
+  - first:
+      213: -5419998707660545010
+    second: Brown_Luta_112
+  - first:
+      213: -4754691950891961669
+    second: Brown_Luta_113
+  - first:
+      213: 1276190417684257435
+    second: Brown_Luta_114
+  - first:
+      213: -8088775722182837566
+    second: Brown_Luta_115
+  - first:
+      213: -1124884418843126937
+    second: Brown_Luta_116
+  - first:
+      213: -3794088619641477788
+    second: Brown_Luta_117
+  - first:
+      213: -8674531946368702375
+    second: Brown_Luta_118
+  - first:
+      213: -8019080784324597437
+    second: Brown_Luta_119
+  - first:
+      213: 3983109173035187776
+    second: Brown_Luta_120
+  - first:
+      213: -1391608954696109251
+    second: Brown_Luta_121
+  - first:
+      213: 5705469756291189839
+    second: Brown_Luta_122
+  - first:
+      213: -1553414939932416947
+    second: Brown_Luta_123
+  - first:
+      213: 4828413273867507391
+    second: Brown_Luta_124
+  - first:
+      213: 9197422641940003740
+    second: Brown_Luta_125
+  - first:
+      213: -3218234593118072789
+    second: Brown_Luta_126
+  - first:
+      213: -1882803539824996624
+    second: Brown_Luta_127
+  - first:
+      213: -6064824831342903626
+    second: Brown_Luta_128
+  - first:
+      213: -4597029548268486161
+    second: Brown_Luta_129
+  - first:
+      213: 7868377980492941088
+    second: Brown_Luta_130
+  - first:
+      213: 1964845547716789142
+    second: Brown_Luta_131
+  - first:
+      213: -5992260251677209477
+    second: Brown_Luta_132
+  - first:
+      213: -8768615787451579629
+    second: Brown_Luta_133
+  - first:
+      213: 4834817632238452843
+    second: Brown_Luta_134
+  - first:
+      213: 4415815090614817871
+    second: Brown_Luta_135
+  - first:
+      213: 734609078587927931
+    second: Brown_Luta_136
+  - first:
+      213: -3996134198427472207
+    second: Brown_Luta_137
+  - first:
+      213: 5416654765724279300
+    second: Brown_Luta_138
+  - first:
+      213: -7734065644661231788
+    second: Brown_Luta_139
+  - first:
+      213: -5110460993181373232
+    second: Brown_Luta_140
+  - first:
+      213: -4889839778132477779
+    second: Brown_Luta_141
+  - first:
+      213: -8137023216300737695
+    second: Brown_Luta_142
+  - first:
+      213: -7274609838414722094
+    second: Brown_Luta_143
+  - first:
+      213: 1725954775826633490
+    second: Brown_Luta_144
+  - first:
+      213: -2861172117975653324
+    second: Brown_Luta_145
+  - first:
+      213: 6946032749985357873
+    second: Brown_Luta_146
+  - first:
+      213: -2484634415490544781
+    second: Brown_Luta_147
+  - first:
+      213: -9183406460729426610
+    second: Brown_Luta_148
+  - first:
+      213: -7929422856080284438
+    second: Brown_Luta_149
+  - first:
+      213: -2715746080343711762
+    second: Brown_Luta_150
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown_Luta_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1377
+        width: 25
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cff520db1a2c980800000000000000
+      internalID: -8520069711870821347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1378
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4c8f826600f2f30800000000000000
+      internalID: 4552858187068916930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1357
+        width: 35
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302380666333f8fa0800000000000000
+      internalID: -5796357886669475325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1360
+        width: 44
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfed8301639f3e1c0800000000000000
+      internalID: -4475459594080428292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1359
+        width: 39
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cd2d81fe1e21c40800000000000000
+      internalID: 5481692113493220471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1371
+        width: 53
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ec4718d5f38b120800000000000000
+      internalID: 2429761669802806861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1378
+        width: 45
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0565c25299cf62b0800000000000000
+      internalID: -5589026982252419828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_7
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1377
+        width: 61
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d327a23022baae650800000000000000
+      internalID: 6263006394382447165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_8
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1376
+        width: 39
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9906e55070fe4b290800000000000000
+      internalID: -7875407034930274151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_9
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1379
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6cedf3015ebe1a0800000000000000
+      internalID: -6779072956122347850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_10
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1372
+        width: 27
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5acb4435aa607930800000000000000
+      internalID: 4138925315333016157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_11
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1371
+        width: 30
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f401f406522bc5ee0800000000000000
+      internalID: -1270945121225994161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_12
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1371
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd10a47bafd067e80800000000000000
+      internalID: -8181336302603861541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1298
+        width: 53
+        height: 37
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecb01747ffd18fe0800000000000000
+      internalID: -1188422573506904850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1298
+        width: 53
+        height: 37
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859bdd6446f47a0c0800000000000000
+      internalID: -4564592405212448424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1184
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda2bf1203ef80c60800000000000000
+      internalID: 7784751438591896287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1200
+        width: 27
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6012a4c65f9f97ce0800000000000000
+      internalID: -1406818576097468154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1195
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ce4059241e286e0800000000000000
+      internalID: -1836658021929522126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1184
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12574e1123fd8900800000000000000
+      internalID: 688473641625014815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1068
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92da82577d8c46680800000000000000
+      internalID: -8762658147247018711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1068
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5625ae7b2bdad00a0800000000000000
+      internalID: -6913678869842472347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1069
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eafab0dbb0ff220800000000000000
+      internalID: 2521747222923554375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1063
+        width: 49
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21bf5fed79e64530800000000000000
+      internalID: 3839012459476136235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1063
+        width: 59
+        height: 50
+      alignment: 9
+      pivot: {x: 0.2, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10513329c68c794f0800000000000000
+      internalID: -821968038336981759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1063
+        width: 59
+        height: 50
+      alignment: 9
+      pivot: {x: 0.2, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d332c5a282e0c5410800000000000000
+      internalID: 1467063144288101181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_25
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1062
+        width: 59
+        height: 50
+      alignment: 9
+      pivot: {x: 0.2, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c13ad15b075cfb0800000000000000
+      internalID: -4628169118864696177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_26
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1061
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380db5e8d3748960800000000000000
+      internalID: 7603329446312740927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_27
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1060
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f3ba3a5c5df4220800000000000000
+      internalID: 2472429765280874309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_28
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1059
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad52c20b38fabf330800000000000000
+      internalID: 3745780495219959258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_29
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1061
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe02561f8f04911f0800000000000000
+      internalID: -1073755598205148945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_30
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1061
+        width: 80
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f617807d646a65d60800000000000000
+      internalID: 7878667421316837743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 967
+        width: 79
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d513127adfa6cceb0800000000000000
+      internalID: -4698262673591029411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 967
+        width: 82
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad3398fad092eb0800000000000000
+      internalID: -4744245684885792181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 967
+        width: 83
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2006b5417a4b670800000000000000
+      internalID: 8553645298157617859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 817
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96346c3f8e4916240800000000000000
+      internalID: 4783268007487357801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_47
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 817
+        width: 61
+        height: 70
+      alignment: 9
+      pivot: {x: 0.35, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77334ae6ef08c730800000000000000
+      internalID: 4019480151875336062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_52
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 818
+        width: 50
+        height: 70
+      alignment: 9
+      pivot: {x: 1, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0e0a9b5307e06f0800000000000000
+      internalID: -716511914655424322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_53
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 827
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 1, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4198220aeafcc36d0800000000000000
+      internalID: -3009302102072456940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_54
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 820
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b49a38baa330910800000000000000
+      internalID: 1802348784201059216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_55
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 820
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fff63c4356defd80800000000000000
+      internalID: -8214893017027903497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 818
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5476e868dbd48e90800000000000000
+      internalID: -7024247796271778722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 817
+        width: 61
+        height: 70
+      alignment: 9
+      pivot: {x: 0.35, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e690e4636d9cebb0800000000000000
+      internalID: -4905372843893549337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_61
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 817
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.54, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4b78d089c1f1d80800000000000000
+      internalID: -8277866150696078109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_62
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 820
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc50659d3a9396d90800000000000000
+      internalID: -7104083561311500851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_63
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 820
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a106b2435a2ab7e0800000000000000
+      internalID: -1749038968190139995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 771
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8e5336b7459ca90800000000000000
+      internalID: -7293205232627619645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_70
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 763
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf810d6976551c80800000000000000
+      internalID: -8352674854368866365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_73
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 759
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c711677b82c66a950800000000000000
+      internalID: 6459969637642015100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_76
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 762
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c29e011c292029f0800000000000000
+      internalID: -495350689769286975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_77
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 763
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1334a318a66820c00800000000000000
+      internalID: 865401870401291057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_82
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 640
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1f74389de6c7be0800000000000000
+      internalID: -1478184697194876425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_83
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 639
+        width: 72
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2eba4392bc0dda0800000000000000
+      internalID: -5922010132154424607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_84
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 637
+        width: 90
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07bcd6573378fe0800000000000000
+      internalID: -1186923397342596909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_85
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 638
+        width: 88
+        height: 58
+      alignment: 9
+      pivot: {x: 0.58, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96dff1b0a59dfce0800000000000000
+      internalID: -1369774194237122916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_86
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 640
+        width: 50
+        height: 67
+      alignment: 9
+      pivot: {x: 1, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38873afbe137b5c40800000000000000
+      internalID: 5502117945664567427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_87
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 641
+        width: 68
+        height: 53
+      alignment: 9
+      pivot: {x: 1, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee75deb30c72000800000000000000
+      internalID: 11188887709281992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_88
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 633
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7b8fa458df1f380800000000000000
+      internalID: -8939085036423432201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_89
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 634
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3038f33ce9952fb0800000000000000
+      internalID: -4673159798563786690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_90
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 633
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e97bbb0d816d2f70800000000000000
+      internalID: 9164088075183946208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_91
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 633
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e89aa16bdefebab0800000000000000
+      internalID: -4990271118890067744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_92
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 543
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ff01b1108df0b20800000000000000
+      internalID: 3102936167542226753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 541
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74450a9b05202680800000000000000
+      internalID: -8781978541613562758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_94
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 525
+        width: 20
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8e9d7e19d3d6960800000000000000
+      internalID: 7596795843313264814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_96
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 510
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351b860e0331b5c90800000000000000
+      internalID: -7180124080267808429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 521
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd24447e54a29490800000000000000
+      internalID: -7740944083911954997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 318
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1370f123b9ec34400800000000000000
+      internalID: 307316365547472689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_100
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 317
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4731043ef43a47a00800000000000000
+      internalID: 753406601188086644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_101
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 317
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437a8e4279f7fd570800000000000000
+      internalID: 8493647709380060980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_102
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 317
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab3a81c6ed559380800000000000000
+      internalID: -8965156237540181084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_103
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 314
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab57caf36138ada60800000000000000
+      internalID: 7699610644524070330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 275
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c1f7c97bad3170800000000000000
+      internalID: 8159866639399109028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_106
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 262
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe17850916f61f20800000000000000
+      internalID: 3393169956597604031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_107
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 242
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafd645f17b4033c0800000000000000
+      internalID: -4381919484613042259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_108
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 200
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125d44de4c3666210800000000000000
+      internalID: 1325856837752640801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_109
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 200
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633b5a678b7bdc3d0800000000000000
+      internalID: -3184687358588636362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_110
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 199
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d36a6c5c58b69b10800000000000000
+      internalID: 1987978992357630937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_111
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 199
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c05b60168a7680800000000000000
+      internalID: -8756539120390454107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_112
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 198
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0421da44eb48c4b0800000000000000
+      internalID: -5419998707660545010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_113
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 198
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2fca2bcd0f30eb0800000000000000
+      internalID: -4754691950891961669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_114
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 198
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ad3df5c60f5b110800000000000000
+      internalID: 1276190417684257435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_115
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 198
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cafc7b3655eebf80800000000000000
+      internalID: -8088775722182837566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_116
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 198
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763db79b49b9360f0800000000000000
+      internalID: -1124884418843126937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_117
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 198
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465eaeb9080b85bc0800000000000000
+      internalID: -3794088619641477788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_118
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 198
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9586ae7872fdd9780800000000000000
+      internalID: -8674531946368702375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_119
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 198
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349eb29738086b090800000000000000
+      internalID: -8019080784324597437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_120
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 198
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ebc5080b8d64730800000000000000
+      internalID: 3983109173035187776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_121
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 99
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33f51d570300bce0800000000000000
+      internalID: -1391608954696109251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_122
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 99
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c8874b386ed2f40800000000000000
+      internalID: 5705469756291189839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 99
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d442b8ca759217ae0800000000000000
+      internalID: -1553414939932416947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_124
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 99
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb657a16a48f10340800000000000000
+      internalID: 4828413273867507391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_125
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 118
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf7fda92fc3af70800000000000000
+      internalID: 9197422641940003740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_126
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 100
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20d25140b88653d0800000000000000
+      internalID: -3218234593118072789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 100
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe02e2f720fed5e0800000000000000
+      internalID: -1882803539824996624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_128
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 94
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be76ded2f965dba0800000000000000
+      internalID: -6064824831342903626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_129
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 100
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe18b716bf11430c0800000000000000
+      internalID: -4597029548268486161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 100
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02789c5b518123d60800000000000000
+      internalID: 7868377980492941088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_131
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 100
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693ca2e8d98844b10800000000000000
+      internalID: 1964845547716789142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_132
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 100
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c4619ac0737dca0800000000000000
+      internalID: -5992260251677209477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_133
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 100
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130111466e9f4680800000000000000
+      internalID: -8768615787451579629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_134
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 101
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604e534509b81340800000000000000
+      internalID: 4834817632238452843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_135
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 101
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44d7edcd60284d30800000000000000
+      internalID: 4415815090614817871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_136
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 101
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7da20a901bd13a00800000000000000
+      internalID: 734609078587927931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_137
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 102
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bea0f37e11ea88c0800000000000000
+      internalID: -3996134198427472207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_138
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 13
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4022ced8fc2db2b40800000000000000
+      internalID: 5416654765724279300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_139
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 14
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f2a64e5441ba490800000000000000
+      internalID: -7734065644661231788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_140
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 7
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc2fe69dcef319b0800000000000000
+      internalID: -5110460993181373232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_141
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 43
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8b6d711acc32cb0800000000000000
+      internalID: -4889839778132477779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_142
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bb94f1f7c731f80800000000000000
+      internalID: -8137023216300737695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_143
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db8abdf4e46b0b90800000000000000
+      internalID: -7274609838414722094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_144
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213198f59b2d3f710800000000000000
+      internalID: 1725954775826633490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_145
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 13
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4342fca2e131b48d0800000000000000
+      internalID: -2861172117975653324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_146
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1306b150cf3456060800000000000000
+      internalID: 6946032749985357873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_147
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 29
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bc9fbc92ec48dd0800000000000000
+      internalID: -2484634415490544781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_148
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 26
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4df130da7cfd8080800000000000000
+      internalID: -9183406460729426610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_149
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 24
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4a87d9ce705f190800000000000000
+      internalID: -7929422856080284438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_150
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 7
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef14fc145bbf4ad0800000000000000
+      internalID: -2715746080343711762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_95
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 518
+        width: 20
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048c52878812d88d0800000000000000
+      internalID: -2842578919785904064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_Luta_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 760
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b6102721b881b20800000000000000
+      internalID: 3105384854410324827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

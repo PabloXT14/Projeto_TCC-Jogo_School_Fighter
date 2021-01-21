@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Menu/Menu Inicial.unity
+    guid: d8e743e306935a341822d8a6d2ef5789
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Menu/NomeF.unity
+    guid: c52967336a2d79649893190256537a9d
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Menu/Nome.unity
+    guid: cf2b6ff767018f04a8c59e0bdcfc42e3
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Menu/Escolha de Personagem.unity
+    guid: fed8e8516b3363e4ba4c1ae6ef7c505f
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Menu/EStilo de Combate.unity
+    guid: b3abe1fd83fa6964dbfe6ed51bfd4d86
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cena_1.unity
+    guid: 2bfdd181f6e57654dbcf17722d707710
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cena_2.unity
+    guid: 3d5e064787e90f24ca7bcca40607fd02
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene_3.unity
+    guid: 3e725ae6383dfea41a825823218d0772
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene_4.unity
+    guid: 441c45686592a084dba8d42d1ebbc12c
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/ExtInf.unity
+    guid: 253cdc299a8ec3243b320951550ad621
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/ExtVal.unity
+    guid: 70e0de37227da5f478ef3866bb6a5fc6
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/ExtCoz.unity
+    guid: 27629f5604aa29a45a940324b92507e7
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/ExtEnf.unity
+    guid: d9c40c9ff4368c24193e72c6df1422ca
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/ExtCant.unity
+    guid: ecd712289696a41499e9f4f9e368d022
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/ExtBib.unity
+    guid: a1ab52923a9805e4a9589e7e81433c1c
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/ExtAula1.unity
+    guid: bacd8a21159b13547ae2fcb88f8464b8
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/ExtAula2.unity
+    guid: b00ff5a0277016e48b9a74edffb3d9ec
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/ExtAula3.unity
+    guid: 063e53e0ab8d908439a3053d450de8fe
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/ExtAudi.unity
+    guid: 04f12705e0a8a5d4298813ce4e4a4881
+  - enabled: 1
+    path: Assets/AssetsMenu/ExtBib.unity
+    guid: e805ffd61ace91a4e9fc3967d47a78c5
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Externa.unity
+    guid: 5c71786d2d27f7e4da57486255e6ef5f
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Externa2.unity
+    guid: 2567deeacedc9b54785bd62eb409f27c
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Sala de Aula.unity
+    guid: 8bcccd676ee65b8489ddc2e951a83a59
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Sala de AulaIntervalo.unity
+    guid: 5dcf7e3ac4311cc4492316f07d6cc83f
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Sala do Val.unity
+    guid: d205e22495ce9b4458e75a4c011f2819
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Sala de Enfermagem.unity
+    guid: b761ed3c01ecb6f4d8bdcfc15e901fdc
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Sala Cal.unity
+    guid: 8ee1a6d1b7f1f9a439e50b145d69bb39
+  - enabled: 1
+    path: "Assets/Scenes/Playeble Scenes/Transi\xE7\xE3o Val.unity"
+    guid: 2e3b4a210a600b74fad908db9d2b831b
+  - enabled: 1
+    path: "Assets/Scenes/Playeble Scenes/Transi\xE7\xE3o Informatica.unity"
+    guid: 2142514c0cd911b419997c962e89a8bb
+  - enabled: 1
+    path: "Assets/Scenes/Playeble Scenes/Trans\xE7\xE3oInfoCal.unity"
+    guid: b82d9ac35e5caad46b18fe9bec0ee575
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Biblioteca.unity
+    guid: 4efc8877dd0a75e4e9332f68600bebd6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Corredor cozinha.unity
+    guid: ee8086cc44eb7474ebb80d7df3da4bd8
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Quadras.unity
+    guid: 08b3948f5fe3d0b4682f6bb35cadee85
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Auditorio.unity
+    guid: 30a8a5a0635911a45990a0eceb29832e
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Cantina.unity
+    guid: cda6edb85b5e0cf439f4292c74b74848
+  - enabled: 1
+    path: Assets/AssetsLuta2/Scenes/LutaJV.unity
+    guid: f3e78e14fa5f70948a1213b96c8cd38b
+  - enabled: 0
+    path: Assets/Scenes/Cutscene/Menu/Testee.unity
+    guid: 14d4384836a4d234baf84b01d63a7f38
+  - enabled: 1
+    path: "Assets/Scenes/Playeble Scenes/Sala de Aula3\xB0.unity"
+    guid: 348c6661eb4d6e742806526220214079
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Menu/Loading.unity
+    guid: 686851a30c89ea244b90d2ddf0a04f04
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene_5.unity
+    guid: d26a5dd7cc84c044184236ffc59e5a29
+  - enabled: 1
+    path: Assets/AssetsLuta2/Scenes/LutaJoca.unity
+    guid: 7283ec576b0e4324b8672b06a0e5040d
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene_6.unity
+    guid: f5087aba98bf75042a4f5e7431df5c7f
+  - enabled: 1
+    path: "Assets/Scenes/Playeble Scenes/Transi\xE7\xE3o ExitVal.unity"
+    guid: e0055eb10e015cc478c7f645ad7c0d20
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Sala CalVal.unity
+    guid: 28a1da7cd9bdbba4aa73d7e6e374c7ce
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Cozinha.unity
+    guid: db776d0641baf8a40945f0468c5eed0b
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Cozinha Corredor.unity
+    guid: 241cfed959b7570498226b405ea45da1
+  - enabled: 1
+    path: Assets/AssetsLuta2/Scenes/LutaThiao.unity
+    guid: a6c21fa7b7ee1554985669350e9aa5a2
+  - enabled: 1
+    path: Assets/AssetsLuta2/Scenes/LutaMartha.unity
+    guid: 0462773b4923349429c6c7e92b42cda6
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Modifique.unity
+    guid: c8ee236eaa3977a468695361c2b11f90
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene_7.unity
+    guid: 70a1ff1f08f99904d8ec8c725d9d9080
+  - enabled: 1
+    path: Assets/AssetsLuta2/Scenes/LutaCal.unity
+    guid: 5e1a70977a3bc594aaf8fd5b3f88ba19
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Sala de AulaIntervaloEntrada.unity
+    guid: f34e0e55cd4b17842ac65ac5dbdb2178
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene_8.unity
+    guid: d73e910cf8ee9294083713f7f538bb68
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Sala de AulaIntervalo 1.unity
+    guid: 8a5bc2710aa545d46b58c90c8a76bde7
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/IntervaloTarde.unity
+    guid: 332c455e9ce90b84086f57251c817c49
+  - enabled: 1
+    path: Assets/AssetsLuta2/Scenes/LutaVDani.unity
+    guid: a3aa01fcfdc84b4458f68f19b9acf78d
+  - enabled: 1
+    path: Assets/AssetsLuta2/Scenes/LutaVBrown.unity
+    guid: 3752102d7a2d0dc4f8f3487e6fc5828e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene_9.unity
+    guid: 8d65a94616712e446b5e78c21720869c
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/QuadrasFinal.unity
+    guid: 54752f8a94e0cc049968cfb9a4c425f7
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/Cozinha CorredorFinal.unity
+    guid: 02f1ad559c20c7444afbe5a760b0ae46
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/CozinhaFinal.unity
+    guid: 16121dada69cbc74c8c093405e7293ac
+  - enabled: 1
+    path: Assets/Scenes/Playeble Scenes/ExtFinal.unity
+    guid: 93ce93001c291c940824191ff83d6082
+  m_configObjects: {}

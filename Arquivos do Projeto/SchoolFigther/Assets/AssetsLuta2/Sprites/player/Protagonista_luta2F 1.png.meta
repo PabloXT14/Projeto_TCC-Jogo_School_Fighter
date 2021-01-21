@@ -1,0 +1,1837 @@
+fileFormatVersion: 2
+guid: 796373d8d4faf2840a2d0f48f9e15cf8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3561836923208549474
+    second: Protagonista_luta2F 1_0
+  - first:
+      213: -2857626120436874933
+    second: Protagonista_luta2F 1_1
+  - first:
+      213: -2419264220126043288
+    second: Protagonista_luta2F 1_2
+  - first:
+      213: -357861976947365261
+    second: Protagonista_luta2F 1_3
+  - first:
+      213: -727371030865722320
+    second: Protagonista_luta2F 1_4
+  - first:
+      213: 5811756925282010264
+    second: Protagonista_luta2F 1_5
+  - first:
+      213: 2099708793345793122
+    second: Protagonista_luta2F 1_6
+  - first:
+      213: 6846205676239806884
+    second: Protagonista_luta2F 1_7
+  - first:
+      213: -3343017807925587247
+    second: Protagonista_luta2F 1_8
+  - first:
+      213: -8189788086759330443
+    second: Protagonista_luta2F 1_9
+  - first:
+      213: -6654199755292605334
+    second: Protagonista_luta2F 1_10
+  - first:
+      213: 4344713901328656232
+    second: Protagonista_luta2F 1_11
+  - first:
+      213: 4345763849306123705
+    second: Protagonista_luta2F 1_12
+  - first:
+      213: -671811076394501943
+    second: Protagonista_luta2F 1_13
+  - first:
+      213: -2695958387606597456
+    second: Protagonista_luta2F 1_14
+  - first:
+      213: -4724368448146650449
+    second: Protagonista_luta2F 1_15
+  - first:
+      213: -2457174730820753262
+    second: Protagonista_luta2F 1_16
+  - first:
+      213: 1413459476283438112
+    second: Protagonista_luta2F 1_17
+  - first:
+      213: 8913835469104781616
+    second: Protagonista_luta2F 1_18
+  - first:
+      213: -6565501248976201778
+    second: Protagonista_luta2F 1_19
+  - first:
+      213: 8716828917042177572
+    second: Protagonista_luta2F 1_20
+  - first:
+      213: 6443979560349569918
+    second: Protagonista_luta2F 1_21
+  - first:
+      213: -6949832938188218721
+    second: Protagonista_luta2F 1_22
+  - first:
+      213: 7444028875384308833
+    second: Protagonista_luta2F 1_23
+  - first:
+      213: -8562602717677076769
+    second: Protagonista_luta2F 1_24
+  - first:
+      213: 1259602497781020875
+    second: Protagonista_luta2F 1_25
+  - first:
+      213: -8372547913726828784
+    second: Protagonista_luta2F 1_26
+  - first:
+      213: 7483567046999358525
+    second: Protagonista_luta2F 1_27
+  - first:
+      213: 6671910218754419987
+    second: Protagonista_luta2F 1_28
+  - first:
+      213: 1409718076562982310
+    second: Protagonista_luta2F 1_29
+  - first:
+      213: 8793359940805827618
+    second: Protagonista_luta2F 1_30
+  - first:
+      213: -2324687859438222859
+    second: Protagonista_luta2F 1_31
+  - first:
+      213: 3860536548006839968
+    second: Protagonista_luta2F 1_32
+  - first:
+      213: -4080631291736824192
+    second: Protagonista_luta2F 1_33
+  - first:
+      213: -8626349683903477930
+    second: Protagonista_luta2F 1_34
+  - first:
+      213: -4324284580157089893
+    second: Protagonista_luta2F 1_35
+  - first:
+      213: 856450775752664186
+    second: Protagonista_luta2F 1_36
+  - first:
+      213: 449593209513124386
+    second: Protagonista_luta2F 1_37
+  - first:
+      213: 8272621451334460834
+    second: Protagonista_luta2F 1_38
+  - first:
+      213: -1123499384435181394
+    second: Protagonista_luta2F 1_39
+  - first:
+      213: 9189692512843364670
+    second: Protagonista_luta2F 1_40
+  - first:
+      213: 7503967086348659616
+    second: Protagonista_luta2F 1_41
+  - first:
+      213: -7936664590773546613
+    second: Protagonista_luta2F 1_42
+  - first:
+      213: -1990569748380056285
+    second: Protagonista_luta2F 1_43
+  - first:
+      213: -8823539866605055194
+    second: Protagonista_luta2F 1_44
+  - first:
+      213: -950544242659732355
+    second: Protagonista_luta2F 1_45
+  - first:
+      213: 2314958132779506144
+    second: Protagonista_luta2F 1_46
+  - first:
+      213: -8436439229806618132
+    second: Protagonista_luta2F 1_47
+  - first:
+      213: -3257737588854501785
+    second: Protagonista_luta2F 1_48
+  - first:
+      213: 3961747692654165129
+    second: Protagonista_luta2F 1_49
+  - first:
+      213: -4709261705589750510
+    second: Protagonista_luta2F 1_50
+  - first:
+      213: -7145257685881713727
+    second: Protagonista_luta2F 1_51
+  - first:
+      213: -5013121490257928948
+    second: Protagonista_luta2F 1_52
+  - first:
+      213: -7383047017606572931
+    second: Protagonista_luta2F 1_53
+  - first:
+      213: -2814629351811293807
+    second: Protagonista_luta2F 1_54
+  - first:
+      213: 8276468891436580509
+    second: Protagonista_luta2F 1_55
+  - first:
+      213: 249816796595067178
+    second: Protagonista_luta2F 1_56
+  - first:
+      213: -6392560234314308685
+    second: Protagonista_luta2F 1_57
+  - first:
+      213: 4347679989809065776
+    second: Protagonista_luta2F 1_58
+  - first:
+      213: 7082688834319534937
+    second: Protagonista_luta2F 1_59
+  - first:
+      213: -1308986019146980827
+    second: Protagonista_luta2F 1_60
+  - first:
+      213: 4751420891340020900
+    second: Protagonista_luta2F 1_61
+  - first:
+      213: 1010125241495020586
+    second: Protagonista_luta2F 1_62
+  - first:
+      213: 7697270887464436012
+    second: Protagonista_luta2F 1_63
+  - first:
+      213: -5128874197431067167
+    second: Protagonista_luta2F 1_64
+  - first:
+      213: 5737351527216425364
+    second: Protagonista_luta2F 1_65
+  - first:
+      213: -2866785701223066001
+    second: Protagonista_luta2F 1_66
+  - first:
+      213: -940585702017654388
+    second: Protagonista_luta2F 1_67
+  - first:
+      213: 5256147689386774822
+    second: Protagonista_luta2F 1_68
+  - first:
+      213: 6792360939854932238
+    second: Protagonista_luta2F 1_69
+  - first:
+      213: -2833382976806029780
+    second: Protagonista_luta2F 1_70
+  - first:
+      213: -6394345400623834359
+    second: Protagonista_luta2F 1_71
+  - first:
+      213: 2169779418085886247
+    second: Protagonista_luta2F 1_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1094
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26447bb6fcf2e6130800000000000000
+      internalID: 3561836923208549474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1092
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b418b7e0f2ca758d0800000000000000
+      internalID: -2857626120436874933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1093
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8632395720c0d6ed0800000000000000
+      internalID: -2419264220126043288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1092
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aee619d6e980bf0800000000000000
+      internalID: -357861976947365261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1012
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034c655b6ebd7e5f0800000000000000
+      internalID: -727371030865722320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1010
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894c95ca12287a050800000000000000
+      internalID: 5811756925282010264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1010
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd327d50aa32d10800000000000000
+      internalID: 2099708793345793122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1012
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1698f2acb920f50800000000000000
+      internalID: 6846205676239806884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1011
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25ac804073b91d0800000000000000
+      internalID: -3343017807925587247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1010
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57debfe5027085e80800000000000000
+      internalID: -8189788086759330443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1010
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640b49f39887a3a0800000000000000
+      internalID: -6654199755292605334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1011
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867656326468b4c30800000000000000
+      internalID: 4344713901328656232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 920
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd20a332314f4c30800000000000000
+      internalID: 4345763849306123705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 919
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8355ba26f3da6f0800000000000000
+      internalID: -671811076394501943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 916
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b059795128069ad0800000000000000
+      internalID: -2695958387606597456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 921
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faac72c5debaf6eb0800000000000000
+      internalID: -4724368448146650449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 921
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298ec5ad99c56edd0800000000000000
+      internalID: -2457174730820753262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 919
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b844a7ed9d9310800000000000000
+      internalID: 1413459476283438112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 921
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0399442b12e44bb70800000000000000
+      internalID: 8913835469104781616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 921
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d36a4667a2e4a0800000000000000
+      internalID: -6565501248976201778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 840
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426e62067b568f870800000000000000
+      internalID: 8716828917042177572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 839
+        width: 31
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4918843, y: 0.437102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73938ab44d9d6950800000000000000
+      internalID: 6443979560349569918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 777
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.46286926, y: 0.33338967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e5bf6b3cb3d8f90800000000000000
+      internalID: -6949832938188218721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 779
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.48646292, y: 0.35809538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164480f62d08e4760800000000000000
+      internalID: 7444028875384308833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 775
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde3014e1368b2980800000000000000
+      internalID: -8562602717677076769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 776
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8be6e4cc10b7110800000000000000
+      internalID: 1259602497781020875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 778
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fdf59380cbecb80800000000000000
+      internalID: -8372547913726828784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_27
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 778
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c37316498fad760800000000000000
+      internalID: 7483567046999358525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 778
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31de722aef2679c50800000000000000
+      internalID: 6671910218754419987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 671
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5cbf22f13509310800000000000000
+      internalID: 1409718076562982310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 671
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c91e5e64a480a70800000000000000
+      internalID: 8793359940805827618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 673
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1858465bc0dbfd0800000000000000
+      internalID: -2324687859438222859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 674
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a64c525981639530800000000000000
+      internalID: 3860536548006839968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 671
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086eea4d57fae57c0800000000000000
+      internalID: -4080631291736824192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 670
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65741a6baac094880800000000000000
+      internalID: -8626349683903477930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 668
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97990cd51e0df3c0800000000000000
+      internalID: -4324284580157089893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 669
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7468506179b2eb00800000000000000
+      internalID: 856450775752664186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_37
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 669
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222257a54a64d3600800000000000000
+      internalID: 449593209513124386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 670
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5211831614ec270800000000000000
+      internalID: 8272621451334460834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 669
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8fe5d23478860f0800000000000000
+      internalID: -1123499384435181394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_40
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 669
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39781fb6a8588f70800000000000000
+      internalID: 9189692512843364670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_41
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 669
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe80cae42732860800000000000000
+      internalID: 7503967086348659616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_42
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 672
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81958dda9d4bd190800000000000000
+      internalID: -7936664590773546613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_43
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 671
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3250b2f3c531064e0800000000000000
+      internalID: -1990569748380056285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 575
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623128d8d3d7c8580800000000000000
+      internalID: -8823539866605055194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 575
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7459f82c0dfec2f0800000000000000
+      internalID: -950544242659732355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_46
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 575
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e959361822602020800000000000000
+      internalID: 2314958132779506144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 575
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9d43af73fbbea80800000000000000
+      internalID: -8436439229806618132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 575
+        width: 24
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec3e45ce03ac2d0800000000000000
+      internalID: -3257737588854501785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 575
+        width: 21
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cff564984faf630800000000000000
+      internalID: 3961747692654165129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 574
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21509f3fd6755aeb0800000000000000
+      internalID: -4709261705589750510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_51
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 575
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb046cedf1f6dc90800000000000000
+      internalID: -7145257685881713727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_52
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 575
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d9c45b090dd6ab0800000000000000
+      internalID: -5013121490257928948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_53
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 577
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d749d83cad52a8990800000000000000
+      internalID: -7383047017606572931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_54
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 578
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d56ee548d60f8d0800000000000000
+      internalID: -2814629351811293807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_55
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 577
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ef5ac2b9cebd270800000000000000
+      internalID: 8276468891436580509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 105
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2999fb8d07877300800000000000000
+      internalID: 249816796595067178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_57
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 464
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3686c06501947a0800000000000000
+      internalID: -6392560234314308685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 464
+        width: 103
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fa4ad6aef065c30800000000000000
+      internalID: 4347679989809065776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_59
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 465
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bcd3818f3ca4260800000000000000
+      internalID: 7082688834319534937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_60
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 464
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522aac0a62c85dde0800000000000000
+      internalID: -1308986019146980827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 107
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac11b6602070f140800000000000000
+      internalID: 4751420891340020900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 391
+        width: 101
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2467f52e8fa40e00800000000000000
+      internalID: 1010125241495020586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_63
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 390
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21064b171332da60800000000000000
+      internalID: 7697270887464436012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 272
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed5474671492d8b0800000000000000
+      internalID: -5128874197431067167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_67
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 275
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c812d66994e52f2f0800000000000000
+      internalID: -940585702017654388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_68
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 276
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62193e8a97691f840800000000000000
+      internalID: 5256147689386774822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 212
+        width: 270
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09aa4e8940534e50800000000000000
+      internalID: 6792360939854932238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_70
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 212
+        width: 270
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2676dac13dcda8d0800000000000000
+      internalID: -2833382976806029780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_71
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 72
+        width: 270
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bd9a0acb8b247a0800000000000000
+      internalID: -6394345400623834359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_72
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 72
+        width: 269
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72986ff72ea9c1e10800000000000000
+      internalID: 2169779418085886247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protagonista_luta2F 1_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 270
+        width: 84
+        height: 103
+      alignment: 9
+      pivot: {x: 0.2, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a743f0da2f9f40800000000000000
+      internalID: 5737351527216425364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

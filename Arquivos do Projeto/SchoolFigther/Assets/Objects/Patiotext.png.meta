@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 6c1abd8c1946ac845a9f781b1f46e54c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5162334158823488612
+    second: Patiotext_0
+  - first:
+      213: 1319247705628457915
+    second: Patiotext_1
+  - first:
+      213: -8979476930315440873
+    second: Patiotext_2
+  - first:
+      213: 2678088441126007691
+    second: Patiotext_3
+  - first:
+      213: 8315744151710426047
+    second: Patiotext_4
+  - first:
+      213: 7319259939560377910
+    second: Patiotext_5
+  - first:
+      213: 138699711389230161
+    second: Patiotext_6
+  - first:
+      213: 3242243145043807997
+    second: Patiotext_7
+  - first:
+      213: -5808238366284772947
+    second: Patiotext_8
+  - first:
+      213: 6928521281110800211
+    second: Patiotext_9
+  - first:
+      213: -5477227730930843333
+    second: Patiotext_10
+  - first:
+      213: -8989314743868168327
+    second: Patiotext_11
+  - first:
+      213: 1151913139274797359
+    second: Patiotext_12
+  - first:
+      213: 5699859592124907517
+    second: Patiotext_13
+  - first:
+      213: -1682096981893368635
+    second: Patiotext_14
+  - first:
+      213: 6817485409459157920
+    second: Patiotext_15
+  - first:
+      213: 7352100902381129623
+    second: Patiotext_16
+  - first:
+      213: -6722576845763900626
+    second: Patiotext_17
+  - first:
+      213: 6390009173417087980
+    second: Patiotext_18
+  - first:
+      213: -425132225145656834
+    second: Patiotext_19
+  - first:
+      213: -7602203008677794680
+    second: Patiotext_20
+  - first:
+      213: 1152821258246584708
+    second: Patiotext_21
+  - first:
+      213: 2917283672572759533
+    second: Patiotext_22
+  - first:
+      213: -5048141406146540454
+    second: Patiotext_23
+  - first:
+      213: -5513153638864736176
+    second: Patiotext_24
+  - first:
+      213: 508680318548075324
+    second: Patiotext_25
+  - first:
+      213: 7430665593560423323
+    second: Patiotext_26
+  - first:
+      213: 5926038807009893991
+    second: Patiotext_27
+  - first:
+      213: 2803577963361673778
+    second: Patiotext_28
+  - first:
+      213: 8281713220781618067
+    second: Patiotext_29
+  - first:
+      213: 8534376005497058901
+    second: Patiotext_30
+  - first:
+      213: -6044163865329302049
+    second: Patiotext_31
+  - first:
+      213: 2454535872792092855
+    second: Patiotext_32
+  - first:
+      213: -2788591139099260036
+    second: Patiotext_33
+  - first:
+      213: -8867438381237298524
+    second: Patiotext_34
+  - first:
+      213: -8414634303980547989
+    second: Patiotext_35
+  - first:
+      213: 1181391391662433903
+    second: Patiotext_36
+  - first:
+      213: -212180439849788190
+    second: Patiotext_37
+  - first:
+      213: 2643632193044941057
+    second: Patiotext_38
+  - first:
+      213: -3178968180928262099
+    second: Patiotext_39
+  - first:
+      213: 721341827192496043
+    second: Patiotext_40
+  - first:
+      213: 6058448886978289348
+    second: Patiotext_41
+  - first:
+      213: 1146702436563565854
+    second: Patiotext_42
+  - first:
+      213: 240527209089261472
+    second: Patiotext_43
+  - first:
+      213: -3419175729205280538
+    second: Patiotext_44
+  - first:
+      213: -6335925893625548477
+    second: Patiotext_45
+  - first:
+      213: 3297971781133433192
+    second: Patiotext_46
+  - first:
+      213: -4480552834041698168
+    second: Patiotext_47
+  - first:
+      213: 4303361203260091937
+    second: Patiotext_48
+  - first:
+      213: 2633936551071725810
+    second: Patiotext_49
+  - first:
+      213: 3797923242317896162
+    second: Patiotext_50
+  - first:
+      213: -7216888554192008244
+    second: Patiotext_51
+  - first:
+      213: 6988753194712568120
+    second: Patiotext_52
+  - first:
+      213: -7104421860831483432
+    second: Patiotext_53
+  - first:
+      213: 2134711218054056980
+    second: Patiotext_54
+  - first:
+      213: 4470370943188265710
+    second: Patiotext_55
+  - first:
+      213: 7607917190285580223
+    second: Patiotext_56
+  - first:
+      213: 2726445479837568131
+    second: Patiotext_57
+  - first:
+      213: 8102359894265168704
+    second: Patiotext_58
+  - first:
+      213: 7387338110166353180
+    second: Patiotext_59
+  - first:
+      213: -7019390712290165038
+    second: Patiotext_60
+  - first:
+      213: -1974323586611061669
+    second: Patiotext_61
+  - first:
+      213: -6265335475680193538
+    second: Patiotext_62
+  - first:
+      213: 3752787742913995860
+    second: Patiotext_63
+  - first:
+      213: 8969265888033636207
+    second: Patiotext_64
+  - first:
+      213: -4594783143277507587
+    second: Patiotext_65
+  - first:
+      213: -8211342656090289420
+    second: Patiotext_66
+  - first:
+      213: 7029509606955078523
+    second: Patiotext_67
+  - first:
+      213: -7688750064377302147
+    second: Patiotext_68
+  - first:
+      213: 6509608831065241205
+    second: Patiotext_69
+  - first:
+      213: 5360605442281599895
+    second: Patiotext_70
+  - first:
+      213: 3813443096314652197
+    second: Patiotext_71
+  - first:
+      213: -6582300333888374612
+    second: Patiotext_72
+  - first:
+      213: -5306053032471142366
+    second: Patiotext_73
+  - first:
+      213: 5156082084467099442
+    second: Patiotext_74
+  - first:
+      213: 8323480721723644740
+    second: Patiotext_75
+  - first:
+      213: -3750682363318317299
+    second: Patiotext_76
+  - first:
+      213: 2078703213702258670
+    second: Patiotext_77
+  - first:
+      213: 3610538464776931577
+    second: Patiotext_78
+  - first:
+      213: -7529837923300410932
+    second: Patiotext_79
+  - first:
+      213: 731981295638175580
+    second: Patiotext_80
+  - first:
+      213: -3772781254037802288
+    second: Patiotext_81
+  - first:
+      213: 659886455846754688
+    second: Patiotext_82
+  - first:
+      213: -407870133813989788
+    second: Patiotext_83
+  - first:
+      213: -8186261857401932032
+    second: Patiotext_84
+  - first:
+      213: -1985537995312903884
+    second: Patiotext_85
+  - first:
+      213: 3365875438683110275
+    second: Patiotext_86
+  - first:
+      213: 1076014625882833468
+    second: Patiotext_87
+  - first:
+      213: 3700571397463182537
+    second: Patiotext_88
+  - first:
+      213: 4346232609566181864
+    second: Patiotext_89
+  - first:
+      213: 2215101425442749835
+    second: Patiotext_90
+  - first:
+      213: -4732216506301465391
+    second: Patiotext_91
+  - first:
+      213: 2032698793968194992
+    second: Patiotext_92
+  - first:
+      213: 2068081845932287205
+    second: Patiotext_93
+  - first:
+      213: -5878965071854718597
+    second: Patiotext_94
+  - first:
+      213: -2113321725986818310
+    second: Patiotext_95
+  - first:
+      213: -360985853206807971
+    second: Patiotext_96
+  - first:
+      213: -2531092555481374488
+    second: Patiotext_97
+  - first:
+      213: -2936904840806416204
+    second: Patiotext_98
+  - first:
+      213: -8401844778146502795
+    second: Patiotext_99
+  - first:
+      213: -5146970057178189903
+    second: Patiotext_100
+  - first:
+      213: -3344099518739490496
+    second: Patiotext_101
+  - first:
+      213: 228580410982989751
+    second: Patiotext_102
+  - first:
+      213: -8447249207926005303
+    second: Patiotext_103
+  - first:
+      213: 3877518673871621236
+    second: Patiotext_104
+  - first:
+      213: 4604828781494939504
+    second: Patiotext_105
+  - first:
+      213: -2518575969477910193
+    second: Patiotext_106
+  - first:
+      213: -1415547679258949352
+    second: Patiotext_107
+  - first:
+      213: -990571631500222140
+    second: Patiotext_108
+  - first:
+      213: 294556156270366846
+    second: Patiotext_109
+  - first:
+      213: 2742695288390496282
+    second: Patiotext_110
+  - first:
+      213: -865023281807396867
+    second: Patiotext_111
+  - first:
+      213: 7509762882540702639
+    second: Patiotext_112
+  - first:
+      213: -5618155028040606274
+    second: Patiotext_113
+  - first:
+      213: 1525262120826889978
+    second: Patiotext_114
+  - first:
+      213: -5205095072791090659
+    second: Patiotext_115
+  - first:
+      213: 8614192969194308437
+    second: Patiotext_116
+  - first:
+      213: 8069729057757360530
+    second: Patiotext_117
+  - first:
+      213: -3657949785093768015
+    second: Patiotext_118
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Patiotext_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb36bbd4f35776370800000000000000
+      internalID: 8315744151710426047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patiotext_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e4e3cc22c339560800000000000000
+      internalID: 7319259939560377910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patiotext_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe08c756f2cefc20800000000000000
+      internalID: 3242243145043807997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patiotext_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b053b9f75d73b0800000000000000
+      internalID: -5513153638864736176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patiotext_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bd2ececf60f1760800000000000000
+      internalID: 7430665593560423323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patiotext_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8882399bfe0e1d1c0800000000000000
+      internalID: -4480552834041698168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patiotext_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deb446665d169e90800000000000000
+      internalID: -7019390712290165038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patiotext_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c5f5c882bc994e0800000000000000
+      internalID: -1974323586611061669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patiotext_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3dd6d749e0d09a0800000000000000
+      internalID: -6265335475680193538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patiotext_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2206c2031ec1d56b0800000000000000
+      internalID: -5306053032471142366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patiotext_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 70
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93067b0f64bb58b0800000000000000
+      internalID: -5162334158823488612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

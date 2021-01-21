@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: a37af2f81e26caf46b97f69bfb29f65e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4666881888257087532
+    second: texturaquadra_0
+  - first:
+      213: -2622798645271283658
+    second: texturaquadra_1
+  - first:
+      213: 8907979145087209989
+    second: texturaquadra_2
+  - first:
+      213: -6989549527996686306
+    second: texturaquadra_3
+  - first:
+      213: -1413674132949383522
+    second: texturaquadra_4
+  - first:
+      213: -6896775549982126244
+    second: texturaquadra_5
+  - first:
+      213: 8491259318495768432
+    second: texturaquadra_6
+  - first:
+      213: -8698305836016480798
+    second: texturaquadra_7
+  - first:
+      213: 189312081976577666
+    second: texturaquadra_8
+  - first:
+      213: -4168468221236585329
+    second: texturaquadra_9
+  - first:
+      213: -3448315603831420603
+    second: texturaquadra_10
+  - first:
+      213: -5499383640040093514
+    second: texturaquadra_11
+  - first:
+      213: -2485884892814743901
+    second: texturaquadra_12
+  - first:
+      213: -6642586179000002950
+    second: texturaquadra_13
+  - first:
+      213: -200866336454660655
+    second: texturaquadra_14
+  - first:
+      213: -7112700821081279668
+    second: texturaquadra_15
+  - first:
+      213: -952039850071121262
+    second: texturaquadra_16
+  - first:
+      213: 1604027697753246153
+    second: texturaquadra_17
+  - first:
+      213: -1473598741701340303
+    second: texturaquadra_18
+  - first:
+      213: -9201234964542241097
+    second: texturaquadra_19
+  - first:
+      213: -5609800936602088474
+    second: texturaquadra_20
+  - first:
+      213: -894075347440889926
+    second: texturaquadra_21
+  - first:
+      213: 2486756188377045869
+    second: texturaquadra_22
+  - first:
+      213: -2077635480930940895
+    second: texturaquadra_23
+  - first:
+      213: 5717952423946057085
+    second: texturaquadra_24
+  - first:
+      213: -8469714368376203056
+    second: texturaquadra_25
+  - first:
+      213: -8433914201747533976
+    second: texturaquadra_26
+  - first:
+      213: 1082853925779856129
+    second: texturaquadra_27
+  - first:
+      213: -9143867336121641679
+    second: texturaquadra_28
+  - first:
+      213: 2416702325754417593
+    second: texturaquadra_29
+  - first:
+      213: 2693600760466603234
+    second: texturaquadra_30
+  - first:
+      213: 2468910819566899338
+    second: texturaquadra_31
+  - first:
+      213: -1814846647408288404
+    second: texturaquadra_32
+  - first:
+      213: 1371486498947539658
+    second: texturaquadra_33
+  - first:
+      213: 3090616060575617961
+    second: texturaquadra_34
+  - first:
+      213: 706905832077240058
+    second: texturaquadra_35
+  - first:
+      213: -5130236837121906939
+    second: texturaquadra_36
+  - first:
+      213: 2897596857941296804
+    second: texturaquadra_37
+  - first:
+      213: -1058661931284950030
+    second: texturaquadra_38
+  - first:
+      213: 5864268685697993100
+    second: texturaquadra_39
+  - first:
+      213: 3025581739960266661
+    second: texturaquadra_40
+  - first:
+      213: -3206960552104340476
+    second: texturaquadra_41
+  - first:
+      213: -4677409704810883687
+    second: texturaquadra_42
+  - first:
+      213: 6267695947448320429
+    second: texturaquadra_43
+  - first:
+      213: -7862020165692236120
+    second: texturaquadra_44
+  - first:
+      213: 821413003662648327
+    second: texturaquadra_45
+  - first:
+      213: 4144019329837861415
+    second: texturaquadra_46
+  - first:
+      213: 7247396632196501290
+    second: texturaquadra_47
+  - first:
+      213: -3030198450083993709
+    second: texturaquadra_48
+  - first:
+      213: -684184002320714993
+    second: texturaquadra_49
+  - first:
+      213: 4407033473862836661
+    second: texturaquadra_50
+  - first:
+      213: 971086246012646451
+    second: texturaquadra_51
+  - first:
+      213: -6833002995668431119
+    second: texturaquadra_52
+  - first:
+      213: -2902395083923186691
+    second: texturaquadra_53
+  - first:
+      213: -8584522686776857961
+    second: texturaquadra_54
+  - first:
+      213: -4334448842013792062
+    second: texturaquadra_55
+  - first:
+      213: 7093829895618536561
+    second: texturaquadra_56
+  - first:
+      213: 8454405060497175642
+    second: texturaquadra_57
+  - first:
+      213: 3061135976679361727
+    second: texturaquadra_58
+  - first:
+      213: 1896467824118612306
+    second: texturaquadra_59
+  - first:
+      213: 8229373890284426206
+    second: texturaquadra_60
+  - first:
+      213: -4239418995817181397
+    second: texturaquadra_61
+  - first:
+      213: 4221842574419387631
+    second: texturaquadra_62
+  - first:
+      213: -1888975142680369777
+    second: texturaquadra_63
+  - first:
+      213: -7425682249512834289
+    second: texturaquadra_64
+  - first:
+      213: 7158498225248858425
+    second: texturaquadra_65
+  - first:
+      213: 3808898228603469133
+    second: texturaquadra_66
+  - first:
+      213: -4709394511038651792
+    second: texturaquadra_67
+  - first:
+      213: -2067044494839085925
+    second: texturaquadra_68
+  - first:
+      213: -6841407205033361808
+    second: texturaquadra_69
+  - first:
+      213: -4039074021000610804
+    second: texturaquadra_70
+  - first:
+      213: 6409160017278610627
+    second: texturaquadra_71
+  - first:
+      213: -5359426648279708267
+    second: texturaquadra_72
+  - first:
+      213: -7967700222708786371
+    second: texturaquadra_73
+  - first:
+      213: 192852670047182319
+    second: texturaquadra_74
+  - first:
+      213: 744440551493749192
+    second: texturaquadra_75
+  - first:
+      213: 5867171272233095688
+    second: texturaquadra_76
+  - first:
+      213: -4262504112977129039
+    second: texturaquadra_77
+  - first:
+      213: 2552075328273654984
+    second: texturaquadra_78
+  - first:
+      213: 5729557110831845748
+    second: texturaquadra_79
+  - first:
+      213: -7910840734895402692
+    second: texturaquadra_80
+  - first:
+      213: -3417592126769220770
+    second: texturaquadra_81
+  - first:
+      213: -6570696048032011130
+    second: texturaquadra_82
+  - first:
+      213: -6070422240571934015
+    second: texturaquadra_83
+  - first:
+      213: -545001011890116752
+    second: texturaquadra_84
+  - first:
+      213: -8557573312216943913
+    second: texturaquadra_85
+  - first:
+      213: 4972535283385961975
+    second: texturaquadra_86
+  - first:
+      213: 9025935928533737937
+    second: texturaquadra_87
+  - first:
+      213: -3359783614043558281
+    second: texturaquadra_88
+  - first:
+      213: -921870149234658571
+    second: texturaquadra_89
+  - first:
+      213: -4054938390702258527
+    second: texturaquadra_90
+  - first:
+      213: 7610298285097892948
+    second: texturaquadra_91
+  - first:
+      213: 6243240326067433206
+    second: texturaquadra_92
+  - first:
+      213: 2449064693800185144
+    second: texturaquadra_93
+  - first:
+      213: 8725107231010041554
+    second: texturaquadra_94
+  - first:
+      213: -2718173916487718714
+    second: texturaquadra_95
+  - first:
+      213: 3467772684903708549
+    second: texturaquadra_96
+  - first:
+      213: -4037210330582273637
+    second: texturaquadra_97
+  - first:
+      213: 6039553308394560717
+    second: texturaquadra_98
+  - first:
+      213: -5165100620178875043
+    second: texturaquadra_99
+  - first:
+      213: -6031356512423880250
+    second: texturaquadra_100
+  - first:
+      213: -1798854616016399234
+    second: texturaquadra_101
+  - first:
+      213: 5281444648762907568
+    second: texturaquadra_102
+  - first:
+      213: -3839085569818125016
+    second: texturaquadra_103
+  - first:
+      213: 3678992947379351462
+    second: texturaquadra_104
+  - first:
+      213: -3957914875091164219
+    second: texturaquadra_105
+  - first:
+      213: 2784875408767814454
+    second: texturaquadra_106
+  - first:
+      213: 7238097445876753236
+    second: texturaquadra_107
+  - first:
+      213: 5375555492154759547
+    second: texturaquadra_108
+  - first:
+      213: -1584190401680459321
+    second: texturaquadra_109
+  - first:
+      213: -2192240325220599535
+    second: texturaquadra_110
+  - first:
+      213: -738419096328268813
+    second: texturaquadra_111
+  - first:
+      213: -8526921148402099859
+    second: texturaquadra_112
+  - first:
+      213: -6721412275054663285
+    second: texturaquadra_113
+  - first:
+      213: 2398653838116796101
+    second: texturaquadra_114
+  - first:
+      213: 5257203366395248489
+    second: texturaquadra_115
+  - first:
+      213: 7287026972694721594
+    second: texturaquadra_116
+  - first:
+      213: -1819452634729463561
+    second: texturaquadra_117
+  - first:
+      213: -406164069996205427
+    second: texturaquadra_118
+  - first:
+      213: 5113485911922499990
+    second: texturaquadra_119
+  - first:
+      213: -8810216071781948573
+    second: texturaquadra_120
+  - first:
+      213: -7865818209866217264
+    second: texturaquadra_121
+  - first:
+      213: 714316349278497927
+    second: texturaquadra_122
+  - first:
+      213: 3013554116277015169
+    second: texturaquadra_123
+  - first:
+      213: 7897165495748620627
+    second: texturaquadra_124
+  - first:
+      213: -7422964822282359171
+    second: texturaquadra_125
+  - first:
+      213: 1282394048183949327
+    second: texturaquadra_126
+  - first:
+      213: -4332394947604586543
+    second: texturaquadra_127
+  - first:
+      213: 1262289229473792982
+    second: texturaquadra_128
+  - first:
+      213: 8786300549224444204
+    second: texturaquadra_129
+  - first:
+      213: 4728299543010674716
+    second: texturaquadra_130
+  - first:
+      213: 838630430805232660
+    second: texturaquadra_131
+  - first:
+      213: 2595979934166463418
+    second: texturaquadra_132
+  - first:
+      213: 3570654469795826525
+    second: texturaquadra_133
+  - first:
+      213: -4135636445106102774
+    second: texturaquadra_134
+  - first:
+      213: 2502634661405175612
+    second: texturaquadra_135
+  - first:
+      213: -3602909183596268355
+    second: texturaquadra_136
+  - first:
+      213: -6205910399761340081
+    second: texturaquadra_137
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: texturaquadra_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 453
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54901307a3f1520d0800000000000000
+      internalID: -3448315603831420603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 354
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1351c25aa157a1180800000000000000
+      internalID: -9143867336121641679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507a9bd17ccbdc8b0800000000000000
+      internalID: -5130236837121906939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99558cbc7a0861fb0800000000000000
+      internalID: -4677409704810883687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da100dba1445bf650800000000000000
+      internalID: 6267695947448320429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8651ef93828930800000000000000
+      internalID: 4144019329837861415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f4f60b6dce39460800000000000000
+      internalID: 7247396632196501290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397edc7709292f5d0800000000000000
+      internalID: -3030198450083993709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f033bac564a4186f0800000000000000
+      internalID: -684184002320714993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c82aaa3eb1f8d3c0800000000000000
+      internalID: -4334448842013792062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174a36194b8527260800000000000000
+      internalID: 7093829895618536561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f232fb94145570800000000000000
+      internalID: 8454405060497175642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f856efead1309c5e0800000000000000
+      internalID: -1888975142680369777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b2dd6465da2f890800000000000000
+      internalID: -7425682249512834289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_0
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 449
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d76bb916a7eb3fb0800000000000000
+      internalID: -4666881888257087532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 449
+        width: 13
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638ba3f3782f99bd0800000000000000
+      internalID: -2622798645271283658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 364
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502d28106df7f9b70800000000000000
+      internalID: 8907979145087209989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 364
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1022cb8cb1200f90800000000000000
+      internalID: -6989549527996686306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 434
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96c465bdde916ce0800000000000000
+      internalID: -1413674132949383522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 352
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f47bf8d2bb940a0800000000000000
+      internalID: -6896775549982126244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f6aae8c5307d570800000000000000
+      internalID: 8491259318495768432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 465
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc7808de8694780800000000000000
+      internalID: -8698305836016480798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texturaquadra_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 235
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e47e5e55290a200800000000000000
+      internalID: 189312081976577666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

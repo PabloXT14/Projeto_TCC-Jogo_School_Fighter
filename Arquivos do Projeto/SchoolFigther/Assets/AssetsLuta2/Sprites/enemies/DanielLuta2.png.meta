@@ -1,0 +1,1906 @@
+fileFormatVersion: 2
+guid: 13eccf79df5a57a4c8eb9df4275fbb35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: DanielLuta2_0
+  - first:
+      213: 21300002
+    second: DanielLuta2_1
+  - first:
+      213: 21300004
+    second: DanielLuta2_2
+  - first:
+      213: 21300006
+    second: DanielLuta2_3
+  - first:
+      213: 21300008
+    second: DanielLuta2_4
+  - first:
+      213: 21300010
+    second: DanielLuta2_5
+  - first:
+      213: 21300012
+    second: DanielLuta2_6
+  - first:
+      213: 21300014
+    second: DanielLuta2_7
+  - first:
+      213: 21300016
+    second: DanielLuta2_8
+  - first:
+      213: 21300018
+    second: DanielLuta2_9
+  - first:
+      213: 21300020
+    second: DanielLuta2_10
+  - first:
+      213: 21300022
+    second: DanielLuta2_11
+  - first:
+      213: 21300024
+    second: DanielLuta2_12
+  - first:
+      213: 21300026
+    second: DanielLuta2_13
+  - first:
+      213: 21300028
+    second: DanielLuta2_15
+  - first:
+      213: 21300030
+    second: DanielLuta2_16
+  - first:
+      213: 21300032
+    second: DanielLuta2_17
+  - first:
+      213: 21300034
+    second: DanielLuta2_18
+  - first:
+      213: 21300036
+    second: DanielLuta2_19
+  - first:
+      213: 21300038
+    second: DanielLuta2_20
+  - first:
+      213: 21300040
+    second: DanielLuta2_21
+  - first:
+      213: 21300042
+    second: DanielLuta2_22
+  - first:
+      213: 21300044
+    second: DanielLuta2_23
+  - first:
+      213: 21300046
+    second: DanielLuta2_24
+  - first:
+      213: 21300048
+    second: DanielLuta2_25
+  - first:
+      213: 21300050
+    second: DanielLuta2_26
+  - first:
+      213: 21300052
+    second: DanielLuta2_27
+  - first:
+      213: 21300054
+    second: DanielLuta2_28
+  - first:
+      213: 21300056
+    second: DanielLuta2_29
+  - first:
+      213: 21300058
+    second: DanielLuta2_30
+  - first:
+      213: 21300060
+    second: DanielLuta2_31
+  - first:
+      213: 21300062
+    second: DanielLuta2_32
+  - first:
+      213: 21300064
+    second: DanielLuta2_33
+  - first:
+      213: 21300066
+    second: DanielLuta2_34
+  - first:
+      213: 21300068
+    second: DanielLuta2_35
+  - first:
+      213: 21300070
+    second: DanielLuta2_36
+  - first:
+      213: 21300072
+    second: DanielLuta2_37
+  - first:
+      213: 21300074
+    second: DanielLuta2_38
+  - first:
+      213: 21300076
+    second: DanielLuta2_39
+  - first:
+      213: 21300078
+    second: DanielLuta2_40
+  - first:
+      213: 21300080
+    second: DanielLuta2_41
+  - first:
+      213: 21300082
+    second: DanielLuta2_42
+  - first:
+      213: 21300084
+    second: DanielLuta2_43
+  - first:
+      213: 21300086
+    second: DanielLuta2_44
+  - first:
+      213: 21300088
+    second: DanielLuta2_45
+  - first:
+      213: 21300090
+    second: DanielLuta2_46
+  - first:
+      213: 21300092
+    second: DanielLuta2_47
+  - first:
+      213: 21300094
+    second: DanielLuta2_48
+  - first:
+      213: 21300096
+    second: DanielLuta2_49
+  - first:
+      213: 21300098
+    second: DanielLuta2_50
+  - first:
+      213: 21300100
+    second: DanielLuta2_51
+  - first:
+      213: 21300102
+    second: DanielLuta2_52
+  - first:
+      213: 21300104
+    second: DanielLuta2_53
+  - first:
+      213: 21300106
+    second: DanielLuta2_54
+  - first:
+      213: 21300108
+    second: DanielLuta2_55
+  - first:
+      213: 21300110
+    second: DanielLuta2_56
+  - first:
+      213: 21300112
+    second: DanielLuta2_57
+  - first:
+      213: 21300114
+    second: DanielLuta2_58
+  - first:
+      213: 21300116
+    second: DanielLuta2_59
+  - first:
+      213: 21300118
+    second: DanielLuta2_60
+  - first:
+      213: 21300120
+    second: DanielLuta2_61
+  - first:
+      213: 21300122
+    second: DanielLuta2_62
+  - first:
+      213: 21300124
+    second: DanielLuta2_63
+  - first:
+      213: 21300126
+    second: DanielLuta2_64
+  - first:
+      213: 21300128
+    second: DanielLuta2_65
+  - first:
+      213: 21300130
+    second: DanielLuta2_66
+  - first:
+      213: 21300132
+    second: DanielLuta2_67
+  - first:
+      213: 21300134
+    second: DanielLuta2_68
+  - first:
+      213: 21300136
+    second: DanielLuta2_69
+  - first:
+      213: 21300138
+    second: DanielLuta2_70
+  - first:
+      213: 21300140
+    second: DanielLuta2_71
+  - first:
+      213: 21300142
+    second: DanielLuta2_72
+  - first:
+      213: 21300144
+    second: DanielLuta2_73
+  - first:
+      213: 21300146
+    second: DanielLuta2_74
+  - first:
+      213: 21300148
+    second: DanielLuta2_75
+  - first:
+      213: 21300150
+    second: DanielLuta2_76
+  - first:
+      213: 21300152
+    second: DanielLuta2_77
+  - first:
+      213: 21300154
+    second: DanielLuta2_78
+  - first:
+      213: 21300156
+    second: DanielLuta2_79
+  - first:
+      213: 21300158
+    second: DanielLuta2_80
+  - first:
+      213: 21300160
+    second: DanielLuta2_81
+  - first:
+      213: 21300162
+    second: DanielLuta2_82
+  - first:
+      213: 21300164
+    second: DanielLuta2_83
+  - first:
+      213: 21300166
+    second: DanielLuta2_84
+  - first:
+      213: 21300168
+    second: DanielLuta2_85
+  - first:
+      213: 21300170
+    second: DanielLuta2_86
+  - first:
+      213: 21300172
+    second: DanielLuta2_87
+  - first:
+      213: 21300174
+    second: DanielLuta2_88
+  - first:
+      213: 21300176
+    second: DanielLuta2_89
+  - first:
+      213: 21300178
+    second: DanielLuta2_90
+  - first:
+      213: 21300180
+    second: DanielLuta2_91
+  - first:
+      213: 21300182
+    second: DanielLuta2_92
+  - first:
+      213: 21300184
+    second: DanielLuta2_93
+  - first:
+      213: 21300186
+    second: DanielLuta2_94
+  - first:
+      213: 21300188
+    second: DanielLuta2_95
+  - first:
+      213: 21300190
+    second: DanielLuta2_96
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanielLuta2_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1255
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51152f90e87ff4b4eae9a5f4153a8140
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1258
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee87523b438a8d42bc356f34757f14d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1260
+        width: 52
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7178019aec3b647938399e1e38afa3
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1166
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8d251dba96fcf4da9b3768f463db05
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1166
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f7ad625ec5dbb4d944d2bcb826cf57
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1167
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d546bc2cb5d9214caa020478c52f7d3
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1168
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874a0a59d916c254da1f6d858ab813dc
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1170
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b781f04dc5dce4e809c7b1c9076d3d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1078
+        width: 46
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4285942f3c43e4f489084566f159b394
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1078
+        width: 39
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0316837abaf954fa64281aee79e60e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1077
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753ae1519f4d1ee45a3b6f7ba679a55d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1076
+        width: 46
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fd2088bf5d318468932201361938e6
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 981
+        width: 70
+        height: 83
+      alignment: 9
+      pivot: {x: 0.3, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a13d675922f4804ab8d79827c3ede7e
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 982
+        width: 71
+        height: 83
+      alignment: 9
+      pivot: {x: 0.24, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52da1f71c1f3c2642a0989759214aac1
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 981
+        width: 43
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba76bb4b635c8b049b03b5cec9dd6a51
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 981
+        width: 75
+        height: 60
+      alignment: 9
+      pivot: {x: 0.28, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319a75bfb275c7d4ebe51134a744e6b1
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 957
+        width: 77
+        height: 76
+      alignment: 9
+      pivot: {x: 0.27, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68dca74ecd07c04d8167eb9ed3fc1c4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 981
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.24, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18151244e87bc924c81e3da083f19d06
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_25
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 981
+        width: 71
+        height: 83
+      alignment: 9
+      pivot: {x: 0.24, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c92e66e99b47044b919722d7ac92bb
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_26
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 981
+        width: 69
+        height: 83
+      alignment: 9
+      pivot: {x: 0.24, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84a88a871edb244c9331bfb28b181e3
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_28
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 980
+        width: 53
+        height: 64
+      alignment: 9
+      pivot: {x: 0.67, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8d98148e556964d864f4ccb4a39fb3
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_30
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 981
+        width: 143
+        height: 93
+      alignment: 9
+      pivot: {x: 0.13, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbf7a1f6ac24844c88d575d943f3cbd
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 870
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0bd8928c13d6479bc5ae501169b08
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 867
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464c7fbcb411b8942870dfbb1fb63742
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_41
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 736
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b6693cd0f1b444bdbfe3a0ecc2c93
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 736
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f6b7076c6a6194fbfa00c9b742c0bc
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 736
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be57a9aa17ed180408e65771b65f5d35
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 736
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965d366d5cf7bf940a9af22f6bf57089
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 736
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7483fc54f6f46084eb4ee59d39dfaaab
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 735
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba426824d3a1b524c954edb9d6204b79
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_50
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 736
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dcaf32d758f95409051e7247f8b88b
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_52
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 736
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21272e94c133385499124ef32861fe58
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_53
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 736
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dc2d95ab261b341990f2f13b099632
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_54
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 736
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba815834f5168449a86344c6a02285e
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_55
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 736
+        width: 42
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f07a8e15de7754a91f56211b99cdc2
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_56
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 736
+        width: 58
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3aad712266e63499575a5db263ecd6
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_57
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 736
+        width: 61
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaaceff0a0234f4b898085c3a1944bd
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_58
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 736
+        width: 55
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51748fd9fb18b4a93a8657796a478f
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_59
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 736
+        width: 53
+        height: 60
+      alignment: 9
+      pivot: {x: 0.45, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c951ae5c9708f954bb17673fa678292f
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 661
+        width: 52
+        height: 60
+      alignment: 9
+      pivot: {x: 0.45, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2acfad2c7f8714ab6eaf3ac6b34fd3
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 661
+        width: 53
+        height: 60
+      alignment: 9
+      pivot: {x: 0.45, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d770f46fc99fa43a872d2fdbe5094b
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_62
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 661
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd910341df771a42b4826d341dccd30
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_63
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 661
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927882a867159f948bbb03270a1d2f6b
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_64
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 661
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751bbdaa1e05b164b99e575d59bdcea6
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_65
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 661
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144315d3a2210f54dbbe13b2117c3a56
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_66
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 661
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a78fe0bb17edf49b55f4653bd151f1
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 661
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6324f65a18fbfc544b7a7d27605ced88
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_68
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 602
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ba3f9c85b3b44f9e8f377ed5584f1
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 599
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6216bb673c527a048a904b7228d9c7d7
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 598
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2489cef4c359f74e9db0fa4e877c094
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_73
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 600
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df8441081a370c4797de273c1b01118
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 594
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d616c9df7e187e44aafc867501e1aa98
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_75
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 573
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eba6461b784f4459b9d8693b1909c4
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_76
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 510
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6505ac2c0ca08eb49848800c891324d0
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_77
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 512
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c250d971bdf734594ea53eaa5ad5c2
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_78
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 517
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c43a108bd6a994e9ed4b88240454f8
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_79
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 506
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298dc31b94edd314baec5eb9f0134cc1
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_80
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 506
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156862c6546c7584d802fca048175516
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_81
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 505
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0291ba01b2ae1694891aa2d2be22240f
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_82
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 382
+        width: 93
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee5f2f10e17a34fb9e37f2548dad21
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_83
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 391
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de569f6b0b8be848b314eb87dc5f913
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_84
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 412
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9323297538a2046ba183e68ada960c
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_85
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 417
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe79bcb3f75d694bbdf56297677f06c
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_88
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 276
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b75b8891cfa7f049aa2b71719950fac
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_89
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 276
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3892146ba16ec234b978eae2bb3d921c
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_90
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 276
+        width: 83
+        height: 82
+      alignment: 9
+      pivot: {x: 0.2, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b13e0b09fd44d49b56e0baa3a4eebe
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 276
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b2392e345e5a49b079c5f35a38b6c
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_93
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 306
+        width: 270
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9149bb7834a484cb92a7e0e3652492
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_94
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 306
+        width: 270
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b647e6ca1e9af42b6120c3f298153f
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_95
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 163
+        width: 270
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297f620ea31804344933765816e8e57a
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_96
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 163
+        width: 269
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e011fcfacdcb4abfa38726617427d
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielLuta2_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 176
+        width: 83
+        height: 82
+      alignment: 9
+      pivot: {x: 0.2, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bb92105ee0ff2854e8f5aa8add58121e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

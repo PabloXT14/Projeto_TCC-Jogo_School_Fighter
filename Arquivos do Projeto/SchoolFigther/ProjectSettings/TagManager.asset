@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coll
+  - ChangeRef1
+  - ChangeRef2
+  - ChangeQua
+  - ChangeVal1
+  - ChangeVal2
+  - ChangeInfo1
+  - ChangeInfo2
+  - ChangeBib
+  - RefExt
+  - CantExt
+  - ValExt
+  - InfoExt
+  - BibExt
+  - EnfExt
+  - AulaExt
+  - ChangeAula
+  - ChangeCant
+  - ChangeEnf
+  - ChangeAudi
+  - CozAudi
+  - AudiCoz
+  - AudiExt
+  - CalTransi
+  - Dimunui
+  - Aumenta
+  - Veterano
+  - "Jo\xE3o Vindo"
+  - Cutscene
+  - "Transi\xE7\xE3o"
+  - Professor
+  - Trigger
+  - OpostTrigger
+  - Row 8
+  - Row 7
+  - Row 6
+  - Row 5
+  - Row 4
+  - Row 3
+  - Row 2
+  - Row 1
+  - Wall
+  - "ChangeSala3\xB0"
+  - Inimigo
+  - Busao
+  - PointAtk
+  - Energy
+  - Ultimate
+  - Peixebolagato
+  - CozCorr
+  - CozQua
+  - QuaCoz
+  - ValCal
+  - CalVal
+  - CorrVal
+  - Musica
+  - Barreira
+  - MenuMusic
+  - MusicLuta
+  - Cut5
+  - Chat1
+  - Chat2
+  - BarDefense
+  - Chat0
+  - Chat3
+  - AulaExt2
+  - AulaExt3
+  - Cutscene 7
+  - AulaInter
+  - AulaExtT
+  - Lutafinal
+  - Luta Final1
+  - Luta Final2
+  - RefExtT
+  - CantExtT
+  - ValExtT
+  - InfoExtT
+  - BibExtT
+  - EnfExtT
+  - AudiExtT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Player2
+    uniqueID: 4221756263
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player1
+    uniqueID: 1765851107
+    locked: 0

@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 43ad3821be28c0e42a68991408a7cdb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6575108663387881730
+    second: "Jo\xE3o_Vindo_0"
+  - first:
+      213: 6468318627737321180
+    second: "Jo\xE3o_Vindo_1"
+  - first:
+      213: 8869818351860313454
+    second: "Jo\xE3o_Vindo_2"
+  - first:
+      213: -2385253214950600932
+    second: "Jo\xE3o_Vindo_3"
+  - first:
+      213: 6887383167024719169
+    second: "Jo\xE3o_Vindo_4"
+  - first:
+      213: 7907654582111562173
+    second: "Jo\xE3o_Vindo_5"
+  - first:
+      213: -3608426734522422409
+    second: "Jo\xE3o_Vindo_6"
+  - first:
+      213: 7021014493865231638
+    second: "Jo\xE3o_Vindo_7"
+  - first:
+      213: 504058899487509715
+    second: "Jo\xE3o_Vindo_8"
+  - first:
+      213: 7100767685784713971
+    second: "Jo\xE3o_Vindo_9"
+  - first:
+      213: -8324010030328234141
+    second: "Jo\xE3o_Vindo_10"
+  - first:
+      213: -895196568774867992
+    second: "Jo\xE3o_Vindo_11"
+  - first:
+      213: -6831673451121656649
+    second: "Jo\xE3o_Vindo_12"
+  - first:
+      213: 3661957751495035482
+    second: "Jo\xE3o_Vindo_13"
+  - first:
+      213: 784779551459539604
+    second: "Jo\xE3o_Vindo_14"
+  - first:
+      213: 7280454885086359514
+    second: "Jo\xE3o_Vindo_15"
+  - first:
+      213: 4512607687032945273
+    second: "Jo\xE3o_Vindo_16"
+  - first:
+      213: 5820467363757581799
+    second: "Jo\xE3o_Vindo_17"
+  - first:
+      213: 8002731104224331007
+    second: "Jo\xE3o_Vindo_18"
+  - first:
+      213: -8000053177567681885
+    second: "Jo\xE3o_Vindo_19"
+  - first:
+      213: -8168768781917496180
+    second: "Jo\xE3o_Vindo_20"
+  - first:
+      213: -8621396284907916987
+    second: "Jo\xE3o_Vindo_21"
+  - first:
+      213: 2812833573089719691
+    second: "Jo\xE3o_Vindo_22"
+  - first:
+      213: 6497274662312284737
+    second: "Jo\xE3o_Vindo_23"
+  - first:
+      213: -5877494614481074826
+    second: "Jo\xE3o_Vindo_24"
+  - first:
+      213: 2248916597767609003
+    second: "Jo\xE3o_Vindo_25"
+  - first:
+      213: -2821235451646554674
+    second: "Jo\xE3o_Vindo_26"
+  - first:
+      213: 8139870999258459284
+    second: "Jo\xE3o_Vindo_27"
+  - first:
+      213: -6089395693867277532
+    second: "Jo\xE3o_Vindo_28"
+  - first:
+      213: -8372554180605937326
+    second: "Jo\xE3o_Vindo_29"
+  - first:
+      213: 7587133665276340732
+    second: "Jo\xE3o_Vindo_30"
+  - first:
+      213: 1037549007001729782
+    second: "Jo\xE3o_Vindo_31"
+  - first:
+      213: -2061675058109291049
+    second: "Jo\xE3o_Vindo_32"
+  - first:
+      213: 188324274090361845
+    second: "Jo\xE3o_Vindo_33"
+  - first:
+      213: 7453840758940967328
+    second: "Jo\xE3o_Vindo_34"
+  - first:
+      213: -2232213058024397849
+    second: "Jo\xE3o_Vindo_35"
+  - first:
+      213: 2612973584541860874
+    second: "Jo\xE3o_Vindo_36"
+  - first:
+      213: -2138304928280754277
+    second: "Jo\xE3o_Vindo_37"
+  - first:
+      213: 348269732986687145
+    second: "Jo\xE3o_Vindo_38"
+  - first:
+      213: 8006903630149835996
+    second: "Jo\xE3o_Vindo_39"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_0"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 500
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20104d03e7a7f3b50800000000000000
+      internalID: 6575108663387881730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_1"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 500
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde3354758514c950800000000000000
+      internalID: 6468318627737321180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_2"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 500
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6defd4fbcce71b70800000000000000
+      internalID: 8869818351860313454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_3"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 500
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fc28fa6d0e5eed0800000000000000
+      internalID: -2385253214950600932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_4"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 500
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145638edf76e49f50800000000000000
+      internalID: 6887383167024719169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_5"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 511
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9ef3522f1adbd60800000000000000
+      internalID: 7907654582111562173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_6"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 516
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba4c2d00b4cedc0800000000000000
+      internalID: -3608426734522422409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_7"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 524
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c4b5bb77af6160800000000000000
+      internalID: 7021014493865231638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_8"
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 519
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcc3d106e6cef600800000000000000
+      internalID: 504058899487509715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_9"
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 516
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa35c7b69efa8260800000000000000
+      internalID: 7100767685784713971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_10"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 411
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f3f7bdafc2b7c80800000000000000
+      internalID: -8324010030328234141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_11"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 411
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38602b67f9393f0800000000000000
+      internalID: -895196568774867992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_12"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 413
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc3d6421350131a0800000000000000
+      internalID: -6831673451121656649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_13"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 422
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a89505c23e1d230800000000000000
+      internalID: 3661957751495035482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_14"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 421
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a7cb718d814ea00800000000000000
+      internalID: 784779551459539604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_15"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 416
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf64dcf42f590560800000000000000
+      internalID: 7280454885086359514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_16"
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 424
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97abb4458c000ae30800000000000000
+      internalID: 4512607687032945273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_17"
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 421
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5668baa3476c050800000000000000
+      internalID: 5820467363757581799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_18"
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 416
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4c24cf9896f0f60800000000000000
+      internalID: 8002731104224331007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_19"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 322
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2e7d6650a1af090800000000000000
+      internalID: -8000053177567681885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_20"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 321
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cd185a214b2ae80800000000000000
+      internalID: -8168768781917496180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_21"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 320
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541f03ac1c5aa5880800000000000000
+      internalID: -8621396284907916987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_22"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 321
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b853e405b31390720800000000000000
+      internalID: 2812833573089719691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_23"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 319
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142154f91e4fa2a50800000000000000
+      internalID: 6497274662312284737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_24"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 197
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6758596d9c1fe6ea0800000000000000
+      internalID: -5877494614481074826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_25"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 197
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa1b6bfab1c53f10800000000000000
+      internalID: 2248916597767609003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_26"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 197
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd4ed4ed45f8d8d0800000000000000
+      internalID: -2821235451646554674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_27"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 200
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ced440c81a6f070800000000000000
+      internalID: 8139870999258459284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_28"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 200
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4236f3221ee1e7ba0800000000000000
+      internalID: -6089395693867277532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_29"
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 198
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259754a1556becb80800000000000000
+      internalID: -8372554180605937326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_30"
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 198
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf92436ced9ea4960800000000000000
+      internalID: 7587133665276340732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_31"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 200
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fab56f135d166e00800000000000000
+      internalID: 1037549007001729782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_32"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 195
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5ec1735757363e0800000000000000
+      internalID: -2061675058109291049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_33"
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 196
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f34db3fdef0d9200800000000000000
+      internalID: 188324274090361845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_34"
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 194
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a121099dac517760800000000000000
+      internalID: 7453840758940967328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_35"
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 191
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3a77dec069501e0800000000000000
+      internalID: -2232213058024397849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_36"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 113
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04c81a81a5234420800000000000000
+      internalID: 2612973584541860874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_37"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 113
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97cb583ff63352e0800000000000000
+      internalID: -2138304928280754277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_38"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 113
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae01b81a7d45d400800000000000000
+      internalID: 348269732986687145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jo\xE3o_Vindo_39"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 113
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcddd1ed6c3e1f60800000000000000
+      internalID: 8006903630149835996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
