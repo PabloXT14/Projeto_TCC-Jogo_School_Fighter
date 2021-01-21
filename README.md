@@ -1,19 +1,6 @@
 # Projeto_TCC-Jogo_School_Fighter
  Jogo desenvolvido por alunos da escola Etec. Bayeux como TCC para conclusão do curso 
 
-<style>
-ul{ 
-    list-style: none;
-}
-
-.lista{
-    list-style: disc;
-
-}
-
-</style>
-
-
 
 <h2>📷 Demonstração</h2>
 <h3>Menu de Escolha de Gênero:</h3>
@@ -34,18 +21,24 @@ ul{
 <br>
 
 <h2>🚀 Tecnologias</h2>
-<ul>
-    <li>✔ Linguagem C#</li>
-    <li>✔ Photoshop (criação de artes 2D em geral)</li>
-    <li>✔ Tile Map (criação de artes 2D do mapa)</li>
-    <li>✔ Pixel Studio (criação de artes 2D do mapa)</li>
-    <li>✔ Editor de Código (VS Code/VS Comunity)</li>
-</ul>
+✔ Linguagem C#
+<br>
+✔ Photoshop (criação de artes 2D em geral)
+<br>
+✔ Tile Map (criação de artes 2D do mapa)
+<br>
+✔ Pixel Studio (criação de artes 2D do mapa)
+<br>
+✔ Editor de Código (VS Code/VS Comunity)
+
+<br>
 
 <h2>⚙ Configuração</h2>
-<p>* Para executar basta descompactar e iniciar o jogo</p>
-<p>* Para realizar edições no codito de game é necessário ter instalado:</p>
-<ul class="lista">
+<p>Para executar basta descompactar e iniciar o jogo (Pasta "Jogo Finalizado")
+</p>
+<p>Para realizar edições no codito de game é necessário ter instalado (Pasta "Arquivos do Projeto"):
+</p>
+<ul>
     <li>Game Engine Unity</li>
     <li>Editor de código: VS Code/ VS Comunity</li>
 <ul>
